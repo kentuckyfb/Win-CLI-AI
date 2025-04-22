@@ -1,0 +1,1292 @@
+[
+  {
+    "command":"AccessChk",
+    "description":"Get the security descriptor (SDDL) for an object (file, directory, reg key).",
+    "url":"https:\/\/ss64.com\/nt\/accesschk.html"
+  },
+  {
+    "command":"ADDUSERS",
+    "description":"Add or list users to\/from a CSV file",
+    "url":"https:\/\/ss64.com\/nt\/addusers.html"
+  },
+  {
+    "command":"ADmodcmd",
+    "description":"Active Directory Bulk Modify",
+    "url":"https:\/\/ss64.com\/nt\/admodcmd.html"
+  },
+  {
+    "command":"ARP",
+    "description":"Address Resolution Protocol",
+    "url":"https:\/\/ss64.com\/nt\/arp.html"
+  },
+  {
+    "command":"ASSOC",
+    "description":"Change file extension associations\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/assoc.html"
+  },
+  {
+    "command":"ATTRIB",
+    "description":"Change file attributes",
+    "url":"https:\/\/ss64.com\/nt\/attrib.html"
+  },
+  {
+    "command":"AUDITPOL",
+    "description":"Manage audit policies",
+    "url":"https:\/\/ss64.com\/nt\/auditpol.html"
+  },
+  {
+    "command":"BCDBOOT",
+    "description":"Create or repair a system partition",
+    "url":"https:\/\/ss64.com\/nt\/bcdboot.html"
+  },
+  {
+    "command":"BCDEDIT",
+    "description":"Manage Boot Configuration Data",
+    "url":"https:\/\/ss64.com\/nt\/bcdedit.html"
+  },
+  {
+    "command":"BITSADMIN",
+    "description":"Background Intelligent Transfer Service",
+    "url":"https:\/\/ss64.com\/nt\/bitsadmin.html"
+  },
+  {
+    "command":"BOOTREC",
+    "description":"Repair or replace a  partition boot sector",
+    "url":"https:\/\/ss64.com\/nt\/bootrec.html"
+  },
+  {
+    "command":"BREAK",
+    "description":"Do nothing, successfully \u2022",
+    "url":"https:\/\/ss64.com\/nt\/break.html"
+  },
+  {
+    "command":"CACLS",
+    "description":"Change file permissions",
+    "url":"https:\/\/ss64.com\/nt\/cacls.html"
+  },
+  {
+    "command":"CALL",
+    "description":"Call one batch program from another \u2022",
+    "url":"https:\/\/ss64.com\/nt\/call.html"
+  },
+  {
+    "command":"CERTREQ",
+    "description":"Request certificate from a certification authority",
+    "url":"https:\/\/ss64.com\/nt\/certreq.html"
+  },
+  {
+    "command":"CERTUTIL",
+    "description":"Manage certification authority (CA) files and services",
+    "url":"https:\/\/ss64.com\/nt\/certutil.html"
+  },
+  {
+    "command":"CD",
+    "description":"Change Directory - move to a specific Folder\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/cd.html"
+  },
+  {
+    "command":"CHANGE",
+    "description":"Change Terminal Server Session properties",
+    "url":"https:\/\/ss64.com\/nt\/change.html"
+  },
+  {
+    "command":"CHANGEPK",
+    "description":"Upgrade device Edition\/Product Key",
+    "url":"https:\/\/ss64.com\/nt\/changepk.html"
+  },
+  {
+    "command":"CHCP",
+    "description":"Change the active console Code Page",
+    "url":"https:\/\/ss64.com\/nt\/chcp.html"
+  },
+  {
+    "command":"CHDIR",
+    "description":"Change Directory - move to a specific Folder\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/cd.html"
+  },
+  {
+    "command":"CHKDSK",
+    "description":"Check Disk - check and repair disk problems",
+    "url":"https:\/\/ss64.com\/nt\/chkdsk.html"
+  },
+  {
+    "command":"CHKNTFS",
+    "description":"Check the NTFS file system",
+    "url":"https:\/\/ss64.com\/nt\/chkntfs.html"
+  },
+  {
+    "command":"CHOICE",
+    "description":"Accept keyboard input to a batch file",
+    "url":"https:\/\/ss64.com\/nt\/choice.html"
+  },
+  {
+    "command":"CIPHER",
+    "description":"Encrypt or Decrypt files\/folders, overwrite data.",
+    "url":"https:\/\/ss64.com\/nt\/cipher.html"
+  },
+  {
+    "command":"CleanMgr",
+    "description":"Automated cleanup of Temp files, recycle bin",
+    "url":"https:\/\/ss64.com\/nt\/cleanmgr.html"
+  },
+  {
+    "command":"CLIP",
+    "description":"Copy STDIN to the Windows clipboard",
+    "url":"https:\/\/ss64.com\/nt\/clip.html"
+  },
+  {
+    "command":"CLS",
+    "description":"Clear the screen\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/cls.html"
+  },
+  {
+    "command":"CMD",
+    "description":"Start a new CMD shell",
+    "url":"https:\/\/ss64.com\/nt\/cmd.html"
+  },
+  {
+    "command":"CMDKEY",
+    "description":"Manage stored usernames\/passwords",
+    "url":"https:\/\/ss64.com\/nt\/cmdkey.html"
+  },
+  {
+    "command":"COLOR",
+    "description":"Change colors of the CMD window\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/color.html"
+  },
+  {
+    "command":"COMP",
+    "description":"Compare the contents of two files or sets of files",
+    "url":"https:\/\/ss64.com\/nt\/comp.html"
+  },
+  {
+    "command":"COMPACT",
+    "description":"Compress files or folders on an NTFS partition",
+    "url":"https:\/\/ss64.com\/nt\/compact.html"
+  },
+  {
+    "command":"CON",
+    "description":"Console input",
+    "url":"https:\/\/ss64.com\/nt\/con.html"
+  },
+  {
+    "command":"CONVERT",
+    "description":"Convert a FAT drive to NTFS",
+    "url":"https:\/\/ss64.com\/nt\/convert.html"
+  },
+  {
+    "command":"COPY",
+    "description":"Copy one or more files to another location\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/copy.html"
+  },
+  {
+    "command":"Coreinfo",
+    "description":"Show the mapping between logical & physical processors",
+    "url":"https:\/\/ss64.com\/nt\/coreinfo.html"
+  },
+  {
+    "command":"CSCcmd",
+    "description":"Client-side caching (Offline Files)",
+    "url":"https:\/\/ss64.com\/nt\/csccmd.html"
+  },
+  {
+    "command":"CSVDE",
+    "description":"Import or Export Active Directory data",
+    "url":"https:\/\/ss64.com\/nt\/csvde.html"
+  },
+  {
+    "command":"CURL",
+    "description":"Transfer data from or to a server",
+    "url":"https:\/\/ss64.com\/nt\/curl.html"
+  },
+  {
+    "command":"DATE",
+    "description":"Display or set the date\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/date.html"
+  },
+  {
+    "command":"DEFRAG",
+    "description":"Defragment hard drive",
+    "url":"https:\/\/ss64.com\/nt\/defrag.html"
+  },
+  {
+    "command":"DEL",
+    "description":"Delete one or more files\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/del.html"
+  },
+  {
+    "command":"DELPROF",
+    "description":"Delete user profiles",
+    "url":"https:\/\/ss64.com\/nt\/delprof.html"
+  },
+  {
+    "command":"DELTREE",
+    "description":"Delete a folder and all subfolders",
+    "url":"https:\/\/ss64.com\/nt\/deltree.html"
+  },
+  {
+    "command":"DevCon",
+    "description":"Device Manager Command Line Utility",
+    "url":"https:\/\/ss64.com\/nt\/devcon.html"
+  },
+  {
+    "command":"DIR",
+    "description":"Display a list of files and folders\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/dir.html"
+  },
+  {
+    "command":"DISKPART",
+    "description":"Disk Administration",
+    "url":"https:\/\/ss64.com\/nt\/diskpart.html"
+  },
+  {
+    "command":"DISKSHADOW",
+    "description":"Volume Shadow Copy Service",
+    "url":"https:\/\/ss64.com\/nt\/diskshadow.html"
+  },
+  {
+    "command":"DISM",
+    "description":"Deployment Image Servicing and Management",
+    "url":"https:\/\/ss64.com\/nt\/dism.html"
+  },
+  {
+    "command":"DisplaySwitch",
+    "description":"Specify which display to use and how to use it",
+    "url":"https:\/\/ss64.com\/nt\/displayswitch.html"
+  },
+  {
+    "command":"DNSCMD",
+    "description":"Manage DNS servers",
+    "url":"https:\/\/ss64.com\/nt\/dnscmd.html"
+  },
+  {
+    "command":"DOSKEY",
+    "description":"Edit command line, recall commands, and create macros",
+    "url":"https:\/\/ss64.com\/nt\/doskey.html"
+  },
+  {
+    "command":"DriverQuery",
+    "description":"Display installed device drivers",
+    "url":"https:\/\/ss64.com\/nt\/driverquery.html"
+  },
+  {
+    "command":"DSACLs",
+    "description":"Active Directory ACLs",
+    "url":"https:\/\/ss64.com\/nt\/dsacls.html"
+  },
+  {
+    "command":"DSAdd",
+    "description":"Add items to Active Directory (user group computer)",
+    "url":"https:\/\/ss64.com\/nt\/dsadd.html"
+  },
+  {
+    "command":"DSGet",
+    "description":"View items in Active Directory (user group computer)",
+    "url":"https:\/\/ss64.com\/nt\/dsget.html"
+  },
+  {
+    "command":"DSQuery",
+    "description":"Search Active Directory (user group computer)",
+    "url":"https:\/\/ss64.com\/nt\/dsquery.html"
+  },
+  {
+    "command":"DSMod",
+    "description":"Modify items in Active Directory (user group computer)",
+    "url":"https:\/\/ss64.com\/nt\/dsmod.html"
+  },
+  {
+    "command":"DSMove",
+    "description":"Move an Active Directory Object",
+    "url":"https:\/\/ss64.com\/nt\/dsmove.html"
+  },
+  {
+    "command":"DSRM",
+    "description":"Remove items from Active Directory",
+    "url":"https:\/\/ss64.com\/nt\/dsrm.html"
+  },
+  {
+    "command":"DSREGCMD",
+    "description":"Directory Service Registration",
+    "url":"https:\/\/ss64.com\/nt\/dsregcmd.html"
+  },
+  {
+    "command":"DU",
+    "description":"Display  directory sizes\/usage",
+    "url":"https:\/\/ss64.com\/nt\/du.html"
+  },
+  {
+    "command":"ECHO",
+    "description":"Display message on screen\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/echo.html"
+  },
+  {
+    "command":"ENDLOCAL",
+    "description":"End localisation of the environment in a batch file\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/endlocal.html"
+  },
+  {
+    "command":"ERASE",
+    "description":"Delete one or more files\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/del.html"
+  },
+  {
+    "command":"ESENTUTL",
+    "description":"Extensible Storage Engine utilities",
+    "url":"https:\/\/ss64.com\/nt\/esentutl.html"
+  },
+  {
+    "command":"EVENTCREATE",
+    "description":"Add a message to the Windows event log",
+    "url":"https:\/\/ss64.com\/nt\/eventcreate.html"
+  },
+  {
+    "command":"EXIT",
+    "description":"Quit the current script\/routine and set an errorlevel\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/exit.html"
+  },
+  {
+    "command":"EXPAND",
+    "description":"Uncompress CAB files",
+    "url":"https:\/\/ss64.com\/nt\/expand.html"
+  },
+  {
+    "command":"EXPLORER",
+    "description":"Open Windows Explorer",
+    "url":"https:\/\/ss64.com\/nt\/explorer.html"
+  },
+  {
+    "command":"EXTRACT",
+    "description":"Uncompress CAB files",
+    "url":"https:\/\/ss64.com\/nt\/extract.html"
+  },
+  {
+    "command":"FC",
+    "description":"Compare two files",
+    "url":"https:\/\/ss64.com\/nt\/fc.html"
+  },
+  {
+    "command":"FIND",
+    "description":"Search for a text string in a file",
+    "url":"https:\/\/ss64.com\/nt\/find.html"
+  },
+  {
+    "command":"FINDSTR",
+    "description":"Search for strings in files",
+    "url":"https:\/\/ss64.com\/nt\/findstr.html"
+  },
+  {
+    "command":"FLTMC",
+    "description":"Manage MiniFilter drivers",
+    "url":"https:\/\/ss64.com\/nt\/fltmc.html"
+  },
+  {
+    "command":"FONDUE",
+    "description":"Features on Demand User Experience Tool",
+    "url":"https:\/\/ss64.com\/nt\/fondue.html"
+  },
+  {
+    "command":"FOR \/F",
+    "description":"Loop command: against a set of files\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/for_f.html"
+  },
+  {
+    "command":"FOR \/F",
+    "description":"Loop command: against the results of another command\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/for_cmd.html"
+  },
+  {
+    "command":"FOR",
+    "description":"Loop command: all options Files, Directory, List\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/for.html"
+  },
+  {
+    "command":"FORFILES",
+    "description":"Batch process multiple files",
+    "url":"https:\/\/ss64.com\/nt\/forfiles.html"
+  },
+  {
+    "command":"FORMAT",
+    "description":"Format a disk",
+    "url":"https:\/\/ss64.com\/nt\/format.html"
+  },
+  {
+    "command":"FREEDISK",
+    "description":"Check free disk space",
+    "url":"https:\/\/ss64.com\/nt\/freedisk.html"
+  },
+  {
+    "command":"FSUTIL",
+    "description":"File and Volume utilities",
+    "url":"https:\/\/ss64.com\/nt\/fsutil.html"
+  },
+  {
+    "command":"FTP",
+    "description":"File Transfer Protocol",
+    "url":"https:\/\/ss64.com\/nt\/ftp.html"
+  },
+  {
+    "command":"FTYPE",
+    "description":"File extension file type associations\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/ftype.html"
+  },
+  {
+    "command":"GETMAC",
+    "description":"Display the Media Access Control (MAC) address",
+    "url":"https:\/\/ss64.com\/nt\/getmac.html"
+  },
+  {
+    "command":"GOTO",
+    "description":"Direct a batch program to jump to a labelled line\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/goto.html"
+  },
+  {
+    "command":"GPRESULT",
+    "description":"Display Resultant Set of Policy information",
+    "url":"https:\/\/ss64.com\/nt\/gpresult.html"
+  },
+  {
+    "command":"GPUPDATE",
+    "description":"Update Group Policy settings",
+    "url":"https:\/\/ss64.com\/nt\/gpupdate.html"
+  },
+  {
+    "command":"HELP",
+    "description":"Online Help",
+    "url":"https:\/\/ss64.com\/nt\/help.html"
+  },
+  {
+    "command":"HOSTNAME",
+    "description":"Display the host name of the computer",
+    "url":"https:\/\/ss64.com\/nt\/hostname.html"
+  },
+  {
+    "command":"iCACLS",
+    "description":"Change file and folder permissions",
+    "url":"https:\/\/ss64.com\/nt\/icacls.html"
+  },
+  {
+    "command":"IEXPRESS",
+    "description":"Create a self extracting ZIP file archive",
+    "url":"https:\/\/ss64.com\/nt\/iexpress.html"
+  },
+  {
+    "command":"IF",
+    "description":"Conditionally perform a command\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/if.html"
+  },
+  {
+    "command":"IFMEMBER",
+    "description":"Is the current user a member of a group",
+    "url":"https:\/\/ss64.com\/nt\/ifmember.html"
+  },
+  {
+    "command":"IPCONFIG",
+    "description":"Configure IP",
+    "url":"https:\/\/ss64.com\/nt\/ipconfig.html"
+  },
+  {
+    "command":"INUSE",
+    "description":"Replace files that are in use by the OS",
+    "url":"https:\/\/ss64.com\/nt\/inuse.html"
+  },
+  {
+    "command":"KLIST",
+    "description":"List cached Kerberos tickets",
+    "url":"https:\/\/ss64.com\/nt\/klist.html"
+  },
+  {
+    "command":"LABEL",
+    "description":"Edit a disk label",
+    "url":"https:\/\/ss64.com\/nt\/label.html"
+  },
+  {
+    "command":"LGPO",
+    "description":"Local Group Policy Object utility",
+    "url":"https:\/\/ss64.com\/nt\/lgpo.html"
+  },
+  {
+    "command":"LODCTR",
+    "description":"Load PerfMon performance counters",
+    "url":"https:\/\/ss64.com\/nt\/lodctr.html"
+  },
+  {
+    "command":"LOGMAN",
+    "description":"Manage Performance Monitor logs",
+    "url":"https:\/\/ss64.com\/nt\/logman.html"
+  },
+  {
+    "command":"LOGOFF",
+    "description":"Log a user off",
+    "url":"https:\/\/ss64.com\/nt\/logoff.html"
+  },
+  {
+    "command":"MAKECAB",
+    "description":"Create .CAB files",
+    "url":"https:\/\/ss64.com\/nt\/makecab.html"
+  },
+  {
+    "command":"Manage-BDE",
+    "description":"BitLocker Drive Encryption",
+    "url":"https:\/\/ss64.com\/nt\/manage-bde.html"
+  },
+  {
+    "command":"MBR2GPT",
+    "description":"Convert a disk partition from  Master Boot Record to a GPT",
+    "url":"https:\/\/ss64.com\/nt\/mbr2gpt.html"
+  },
+  {
+    "command":"MD",
+    "description":"Create a new Directory\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/md.html"
+  },
+  {
+    "command":"MKLINK",
+    "description":"Create a symbolic link (linkd)\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/mklink.html"
+  },
+  {
+    "command":"MODE",
+    "description":"Configure a system device COM\/LPT\/CON",
+    "url":"https:\/\/ss64.com\/nt\/mode.html"
+  },
+  {
+    "command":"MORE",
+    "description":"Display output, one screen at a time",
+    "url":"https:\/\/ss64.com\/nt\/more.html"
+  },
+  {
+    "command":"MOUNTVOL",
+    "description":"Manage a volume mount point",
+    "url":"https:\/\/ss64.com\/nt\/mountvol.html"
+  },
+  {
+    "command":"MOVE",
+    "description":"Move files from one folder to another\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/move.html"
+  },
+  {
+    "command":"MSG",
+    "description":"Send a message",
+    "url":"https:\/\/ss64.com\/nt\/msg.html"
+  },
+  {
+    "command":"MSIEXEC",
+    "description":"Microsoft Windows Installer",
+    "url":"https:\/\/ss64.com\/nt\/msiexec.html"
+  },
+  {
+    "command":"MSINFO32",
+    "description":"System Information",
+    "url":"https:\/\/ss64.com\/nt\/msinfo32.html"
+  },
+  {
+    "command":"MSTSC",
+    "description":"Terminal Server Connection\/Remote Desktop Protocol(RDP)",
+    "url":"https:\/\/ss64.com\/nt\/mstsc.html"
+  },
+  {
+    "command":"NET",
+    "description":"Manage network resources",
+    "url":"https:\/\/ss64.com\/nt\/net.html"
+  },
+  {
+    "command":"NETDOM",
+    "description":"Domain Manager",
+    "url":"https:\/\/ss64.com\/nt\/netdom.html"
+  },
+  {
+    "command":"NETSH",
+    "description":"Configure Network Interfaces, Firewall & Remote access",
+    "url":"https:\/\/ss64.com\/nt\/netsh.html"
+  },
+  {
+    "command":"NBTSTAT",
+    "description":"Display networking statistics (NetBIOS over TCP\/IP)",
+    "url":"https:\/\/ss64.com\/nt\/nbtstat.html"
+  },
+  {
+    "command":"NETSTAT",
+    "description":"Display networking statistics (TCP\/IP)",
+    "url":"https:\/\/ss64.com\/nt\/netstat.html"
+  },
+  {
+    "command":"NLTEST",
+    "description":"Network Location Test (AD)",
+    "url":"https:\/\/ss64.com\/nt\/nltest.html"
+  },
+  {
+    "command":"NMBIND",
+    "description":"Manage Hyper-V network bindings",
+    "url":"https:\/\/ss64.com\/nt\/nmbind.html"
+  },
+  {
+    "command":"NSLOOKUP",
+    "description":"Name server lookup",
+    "url":"https:\/\/ss64.com\/nt\/nslookup.html"
+  },
+  {
+    "command":"NTBACKUP",
+    "description":"Windows Backup folders to tape",
+    "url":"https:\/\/ss64.com\/nt\/ntbackup.html"
+  },
+  {
+    "command":"NTDSUtil",
+    "description":"Active Directory Domain Services management",
+    "url":"https:\/\/ss64.com\/nt\/ntdsutil.html"
+  },
+  {
+    "command":"NTRIGHTS",
+    "description":"Edit user account rights",
+    "url":"https:\/\/ss64.com\/nt\/ntrights.html"
+  },
+  {
+    "command":"NVSPBIND",
+    "description":"Modify network bindings",
+    "url":"https:\/\/ss64.com\/nt\/nvspbind.html"
+  },
+  {
+    "command":"OPENFILES",
+    "description":"Query or display open files",
+    "url":"https:\/\/ss64.com\/nt\/openfiles.html"
+  },
+  {
+    "command":"PATH",
+    "description":"Display or set a search path for executable files\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/path.html"
+  },
+  {
+    "command":"PATHPING",
+    "description":"Trace route plus network latency and packet loss",
+    "url":"https:\/\/ss64.com\/nt\/pathping.html"
+  },
+  {
+    "command":"PAUSE",
+    "description":"Suspend processing of a batch file\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/pause.html"
+  },
+  {
+    "command":"PING",
+    "description":"Test a network connection",
+    "url":"https:\/\/ss64.com\/nt\/ping.html"
+  },
+  {
+    "command":"PKTMON",
+    "description":"Monitor internal packet propagation and packet drop reports",
+    "url":"https:\/\/ss64.com\/nt\/pktmon.html"
+  },
+  {
+    "command":"PNPUTIL",
+    "description":"Plug and Play Utility",
+    "url":"https:\/\/ss64.com\/nt\/pnputil.html"
+  },
+  {
+    "command":"POPD",
+    "description":"Return to a previous directory saved by PUSHD\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/popd.html"
+  },
+  {
+    "command":"PORTQRY",
+    "description":"Display the status of ports and services",
+    "url":"https:\/\/ss64.com\/nt\/portqry.html"
+  },
+  {
+    "command":"POWERCFG",
+    "description":"Configure power settings",
+    "url":"https:\/\/ss64.com\/nt\/powercfg.html"
+  },
+  {
+    "command":"PRINT",
+    "description":"Print a text file",
+    "url":"https:\/\/ss64.com\/nt\/print.html"
+  },
+  {
+    "command":"PRINTBRM",
+    "description":"Print queue Backup\/Recovery",
+    "url":"https:\/\/ss64.com\/nt\/printbrm.html"
+  },
+  {
+    "command":"PRNCNFG",
+    "description":"Configure a printer",
+    "url":"https:\/\/ss64.com\/nt\/prncnfg.html"
+  },
+  {
+    "command":"PRNDRVR",
+    "description":"Add, delete or list print drivers.",
+    "url":"https:\/\/ss64.com\/nt\/prndrvr.html"
+  },
+  {
+    "command":"PRNJOBS",
+    "description":"Pause, resume, cancel, or list print jobs.",
+    "url":"https:\/\/ss64.com\/nt\/prnjobs.html"
+  },
+  {
+    "command":"PRNMNGR",
+    "description":"Add, delete, or list printer connections.",
+    "url":"https:\/\/ss64.com\/nt\/prnmngr.html"
+  },
+  {
+    "command":"PRNPORT",
+    "description":"Manage Printer Ports, change port configuration.",
+    "url":"https:\/\/ss64.com\/nt\/prnport.html"
+  },
+  {
+    "command":"PRNQCTL",
+    "description":"Manage Print Queues, print a test page.",
+    "url":"https:\/\/ss64.com\/nt\/prnqctl.html"
+  },
+  {
+    "command":"ProcDump",
+    "description":"Monitor an application for CPU spikes",
+    "url":"https:\/\/ss64.com\/nt\/procdump.html"
+  },
+  {
+    "command":"PROMPT",
+    "description":"Change the command prompt\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/prompt.html"
+  },
+  {
+    "command":"PsExec",
+    "description":"Execute process remotely",
+    "url":"https:\/\/ss64.com\/nt\/psexec.html"
+  },
+  {
+    "command":"PsFile",
+    "description":"Show files opened remotely",
+    "url":"https:\/\/ss64.com\/nt\/psfile.html"
+  },
+  {
+    "command":"PsGetSid",
+    "description":"Display the SID of a computer or a user",
+    "url":"https:\/\/ss64.com\/nt\/psgetsid.html"
+  },
+  {
+    "command":"PsInfo",
+    "description":"List information about a system",
+    "url":"https:\/\/ss64.com\/nt\/psinfo.html"
+  },
+  {
+    "command":"PsKill",
+    "description":"Kill processes by name or process ID",
+    "url":"https:\/\/ss64.com\/nt\/pskill.html"
+  },
+  {
+    "command":"PsList",
+    "description":"List detailed information about processes",
+    "url":"https:\/\/ss64.com\/nt\/pslist.html"
+  },
+  {
+    "command":"PsLoggedOn",
+    "description":"Who\u2019s logged on (locally or via resource sharing)",
+    "url":"https:\/\/ss64.com\/nt\/psloggedon.html"
+  },
+  {
+    "command":"PsLogList",
+    "description":"Event log records",
+    "url":"https:\/\/ss64.com\/nt\/psloglist.html"
+  },
+  {
+    "command":"PsPasswd",
+    "description":"Change account password",
+    "url":"https:\/\/ss64.com\/nt\/pspasswd.html"
+  },
+  {
+    "command":"PsPing",
+    "description":"Measure network performance",
+    "url":"https:\/\/ss64.com\/nt\/psping.html"
+  },
+  {
+    "command":"PsService",
+    "description":"View and control services",
+    "url":"https:\/\/ss64.com\/nt\/psservice.html"
+  },
+  {
+    "command":"PsShutdown",
+    "description":"Shutdown or reboot a computer",
+    "url":"https:\/\/ss64.com\/nt\/psshutdown.html"
+  },
+  {
+    "command":"PsSuspend",
+    "description":"Suspend processes",
+    "url":"https:\/\/ss64.com\/nt\/pssuspend.html"
+  },
+  {
+    "command":"PUSHD",
+    "description":"Save and then change the current directory\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/pushd.html"
+  },
+  {
+    "command":"QPROCESS",
+    "description":"Query Process Display processes",
+    "url":"https:\/\/ss64.com\/nt\/query-process.html"
+  },
+  {
+    "command":"QWinsta",
+    "description":"Query Session Display all sessions (TS\/Remote Desktop)",
+    "url":"https:\/\/ss64.com\/nt\/query-session.html"
+  },
+  {
+    "command":"QAppSrv",
+    "description":"Query TermServer List all servers (TS\/Remote Desktop)",
+    "url":"https:\/\/ss64.com\/nt\/query-termserver.html"
+  },
+  {
+    "command":"QUSER",
+    "description":"Query User Display user sessions (TS\/Remote Desktop)",
+    "url":"https:\/\/ss64.com\/nt\/query-user.html"
+  },
+  {
+    "command":"RASDIAL",
+    "description":"Manage RAS connections",
+    "url":"https:\/\/ss64.com\/nt\/rasdial.html"
+  },
+  {
+    "command":"RASPHONE",
+    "description":"Manage RAS connections",
+    "url":"https:\/\/ss64.com\/nt\/rasphone.html"
+  },
+  {
+    "command":"RD",
+    "description":"Delete a Directory\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/rd.html"
+  },
+  {
+    "command":"REAgentC",
+    "description":"Configure WindowsRE and System Reset",
+    "url":"https:\/\/ss64.com\/nt\/reagentc.html"
+  },
+  {
+    "command":"RECOVER",
+    "description":"Recover a damaged file from a defective disk",
+    "url":"https:\/\/ss64.com\/nt\/recover.html"
+  },
+  {
+    "command":"REG",
+    "description":"Registry: Read, Set, Export, Delete keys and values",
+    "url":"https:\/\/ss64.com\/nt\/reg.html"
+  },
+  {
+    "command":"REGEDIT",
+    "description":"Import or export registry settings",
+    "url":"https:\/\/ss64.com\/nt\/regedit.html"
+  },
+  {
+    "command":"REGSVR32",
+    "description":"Register or unregister a DLL",
+    "url":"https:\/\/ss64.com\/nt\/regsvr32.html"
+  },
+  {
+    "command":"REGINI",
+    "description":"Change Registry Permissions",
+    "url":"https:\/\/ss64.com\/nt\/regini.html"
+  },
+  {
+    "command":"REM",
+    "description":"Record comments (remarks) in a batch file\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/rem.html"
+  },
+  {
+    "command":"REN",
+    "description":"Rename a file or files\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/ren.html"
+  },
+  {
+    "command":"REPLACE",
+    "description":"Replace or update one file with another",
+    "url":"https:\/\/ss64.com\/nt\/replace.html"
+  },
+  {
+    "command":"Reset Session",
+    "description":"Delete a Remote Desktop Session",
+    "url":"https:\/\/ss64.com\/nt\/reset-session.html"
+  },
+  {
+    "command":"RMDIR",
+    "description":"Delete a Directory\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/rd.html"
+  },
+  {
+    "command":"RMTSHARE",
+    "description":"Share a folder or a printer",
+    "url":"https:\/\/ss64.com\/nt\/rmtshare.html"
+  },
+  {
+    "command":"ROBOCOPY",
+    "description":"Robust File and Folder Copy",
+    "url":"https:\/\/ss64.com\/nt\/robocopy.html"
+  },
+  {
+    "command":"ROUTE",
+    "description":"Manipulate network routing tables",
+    "url":"https:\/\/ss64.com\/nt\/route.html"
+  },
+  {
+    "command":"RUN",
+    "description":"Start | RUN commands",
+    "url":"https:\/\/ss64.com\/nt\/run.html"
+  },
+  {
+    "command":"RUNAS",
+    "description":"Execute a program under a different user account",
+    "url":"https:\/\/ss64.com\/nt\/runas.html"
+  },
+  {
+    "command":"RUNDLL32",
+    "description":"Run a DLL command (add\/remove print connections)",
+    "url":"https:\/\/ss64.com\/nt\/rundll32.html"
+  },
+  {
+    "command":"SC",
+    "description":"Service Control",
+    "url":"https:\/\/ss64.com\/nt\/sc.html"
+  },
+  {
+    "command":"SCHTASKS",
+    "description":"Schedule a command to run at a specific time",
+    "url":"https:\/\/ss64.com\/nt\/schtasks.html"
+  },
+  {
+    "command":"ScriptRunner",
+    "description":"Run one or more scripts in sequence",
+    "url":"https:\/\/ss64.com\/nt\/scriptrunner.html"
+  },
+  {
+    "command":"SET",
+    "description":"Display, set, or remove session environment variables\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/set.html"
+  },
+  {
+    "command":"SETLOCAL",
+    "description":"Control the visibility of environment variables\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/setlocal.html"
+  },
+  {
+    "command":"SetObjectSecurity",
+    "description":"Set  security  for  an object (file, directory, reg key etc).",
+    "url":"https:\/\/ss64.com\/nt\/setobjectsecurity.html"
+  },
+  {
+    "command":"SetSPN",
+    "description":"Edit Service Principal Names",
+    "url":"https:\/\/ss64.com\/nt\/setspn.html"
+  },
+  {
+    "command":"SETX",
+    "description":"Set environment variables",
+    "url":"https:\/\/ss64.com\/nt\/setx.html"
+  },
+  {
+    "command":"SFC",
+    "description":"System File Checker",
+    "url":"https:\/\/ss64.com\/nt\/sfc.html"
+  },
+  {
+    "command":"SHARE",
+    "description":"List or edit a file share or print share",
+    "url":"https:\/\/ss64.com\/nt\/share.html"
+  },
+  {
+    "command":"ShellRunAs",
+    "description":"Run a command under a different user account",
+    "url":"https:\/\/ss64.com\/nt\/shellrunas.html"
+  },
+  {
+    "command":"SHIFT",
+    "description":"Shift the position of batch file parameters\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/shift.html"
+  },
+  {
+    "command":"SHORTCUT",
+    "description":"Create a windows shortcut (.LNK file)",
+    "url":"https:\/\/ss64.com\/nt\/shortcut.html"
+  },
+  {
+    "command":"SHUTDOWN",
+    "description":"Shutdown the computer",
+    "url":"https:\/\/ss64.com\/nt\/shutdown.html"
+  },
+  {
+    "command":"SIGCHECK",
+    "description":"Display file version no. VirusTotal status & timestamp",
+    "url":"https:\/\/ss64.com\/nt\/sigcheck.html"
+  },
+  {
+    "command":"SLMGR",
+    "description":"Software Licensing Management",
+    "url":"https:\/\/ss64.com\/nt\/slmgr.html"
+  },
+  {
+    "command":"SORT",
+    "description":"Sort input",
+    "url":"https:\/\/ss64.com\/nt\/sort.html"
+  },
+  {
+    "command":"SSH",
+    "description":"OpenSSH remote login client",
+    "url":"https:\/\/ss64.com\/nt\/ssh.html"
+  },
+  {
+    "command":"START",
+    "description":"Start a program, command or batch file\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/start.html"
+  },
+  {
+    "command":"STREAMS",
+    "description":"List any Alternate Data  Streams (ADS) within a file or directory",
+    "url":"https:\/\/ss64.com\/nt\/streams.html"
+  },
+  {
+    "command":"STRINGS",
+    "description":"Search for ANSI and UNICODE strings in binary files",
+    "url":"https:\/\/ss64.com\/nt\/strings.html"
+  },
+  {
+    "command":"SUBINACL",
+    "description":"Edit file and folder Permissions, Ownership and Domain",
+    "url":"https:\/\/ss64.com\/nt\/subinacl.html"
+  },
+  {
+    "command":"SUBST",
+    "description":"Associate a path with a drive letter",
+    "url":"https:\/\/ss64.com\/nt\/subst.html"
+  },
+  {
+    "command":"SXSTRACE",
+    "description":"Diagnose side-by-side problems",
+    "url":"https:\/\/ss64.com\/nt\/sxstrace.html"
+  },
+  {
+    "command":"SYSMON",
+    "description":"Monitor and log system activity to the Windows event log",
+    "url":"https:\/\/ss64.com\/nt\/sysmon.html"
+  },
+  {
+    "command":"SYSTEMINFO",
+    "description":"List system configuration",
+    "url":"https:\/\/ss64.com\/nt\/systeminfo.html"
+  },
+  {
+    "command":"TAKEOWN",
+    "description":"Take ownership of a file",
+    "url":"https:\/\/ss64.com\/nt\/takeown.html"
+  },
+  {
+    "command":"TAR",
+    "description":"Store, list or extract files in an archive",
+    "url":"https:\/\/ss64.com\/nt\/tar.html"
+  },
+  {
+    "command":"TASKLIST",
+    "description":"List running applications and services",
+    "url":"https:\/\/ss64.com\/nt\/tasklist.html"
+  },
+  {
+    "command":"TASKKILL",
+    "description":"End a running process",
+    "url":"https:\/\/ss64.com\/nt\/taskkill.html"
+  },
+  {
+    "command":"TELNET",
+    "description":"Communicate with another host using the TELNET protocol",
+    "url":"https:\/\/ss64.com\/nt\/telnet.html"
+  },
+  {
+    "command":"TIME",
+    "description":"Display or set the system time\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/time.html"
+  },
+  {
+    "command":"TIMEOUT",
+    "description":"Delay processing of a batch file\/command",
+    "url":"https:\/\/ss64.com\/nt\/timeout.html"
+  },
+  {
+    "command":"TITLE",
+    "description":"Set the window title for a CMD.EXE session\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/title.html"
+  },
+  {
+    "command":"TLIST",
+    "description":"Task list with full path",
+    "url":"https:\/\/ss64.com\/nt\/tlist.html"
+  },
+  {
+    "command":"TOUCH",
+    "description":"Change file timestamps",
+    "url":"https:\/\/ss64.com\/nt\/touch.html"
+  },
+  {
+    "command":"TRACERT",
+    "description":"Trace route to a remote host",
+    "url":"https:\/\/ss64.com\/nt\/tracert.html"
+  },
+  {
+    "command":"TREE",
+    "description":"Graphical display of folder structure",
+    "url":"https:\/\/ss64.com\/nt\/tree.html"
+  },
+  {
+    "command":"TSDISCON",
+    "description":"Disconnect a Remote Desktop Session",
+    "url":"https:\/\/ss64.com\/nt\/tsdiscon.html"
+  },
+  {
+    "command":"TSKILL",
+    "description":"End a running process",
+    "url":"https:\/\/ss64.com\/nt\/tskill.html"
+  },
+  {
+    "command":"TYPE",
+    "description":"Display the contents of a text file\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/type.html"
+  },
+  {
+    "command":"TypePerf",
+    "description":"Write Performance Monitor data to a log file",
+    "url":"https:\/\/ss64.com\/nt\/typeperf.html"
+  },
+  {
+    "command":"TZUTIL",
+    "description":"Time Zone Utility",
+    "url":"https:\/\/ss64.com\/nt\/tzutil.html"
+  },
+  {
+    "command":"VBC",
+    "description":"Visual Basic compiler",
+    "url":"https:\/\/ss64.com\/nt\/vbc.html"
+  },
+  {
+    "command":"VER",
+    "description":"Display version information\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/ver.html"
+  },
+  {
+    "command":"VERIFY",
+    "description":"Verify that files have been saved\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/verify.html"
+  },
+  {
+    "command":"VMConnect",
+    "description":"Connect to a Hyper-V Virtual Machine",
+    "url":"https:\/\/ss64.com\/nt\/vmconnect.html"
+  },
+  {
+    "command":"VOL",
+    "description":"Display a disk label\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/vol.html"
+  },
+  {
+    "command":"VSSADMIN",
+    "description":"Display volume shadow copy backups + writers\/providers",
+    "url":"https:\/\/ss64.com\/nt\/vssadmin.html"
+  },
+  {
+    "command":"W32TM",
+    "description":"Time Service",
+    "url":"https:\/\/ss64.com\/nt\/w32tm.html"
+  },
+  {
+    "command":"WAITFOR",
+    "description":"Wait for or send a signal",
+    "url":"https:\/\/ss64.com\/nt\/waitfor.html"
+  },
+  {
+    "command":"WBADMIN",
+    "description":"Windows Backup Admin",
+    "url":"https:\/\/ss64.com\/nt\/wbadmin.html"
+  },
+  {
+    "command":"WECUTIL",
+    "description":"Windows Event Collector Utility",
+    "url":"https:\/\/ss64.com\/nt\/wecutil.html"
+  },
+  {
+    "command":"WEVTUTIL",
+    "description":"Clear event logs, enable\/disable\/query logs",
+    "url":"https:\/\/ss64.com\/nt\/wevtutil.html"
+  },
+  {
+    "command":"WHERE",
+    "description":"Locate and display files in a directory tree",
+    "url":"https:\/\/ss64.com\/nt\/where.html"
+  },
+  {
+    "command":"WHOAMI",
+    "description":"Output the current UserName and domain",
+    "url":"https:\/\/ss64.com\/nt\/whoami.html"
+  },
+  {
+    "command":"WHOIS",
+    "description":"Lookup the registration record for a domain",
+    "url":"https:\/\/ss64.com\/nt\/whois.html"
+  },
+  {
+    "command":"WINDIFF",
+    "description":"Compare the contents of two files or sets of files",
+    "url":"https:\/\/ss64.com\/nt\/windiff.html"
+  },
+  {
+    "command":"WINGET",
+    "description":"Windows Package Manager (coming May 2021)",
+    "url":"https:\/\/ss64.com\/nt\/winget.html"
+  },
+  {
+    "command":"WINMGMT",
+    "description":"Manage the  WMI service\/WMI repository",
+    "url":"https:\/\/ss64.com\/nt\/winmgmt.html"
+  },
+  {
+    "command":"WINRM",
+    "description":"Windows Remote Management",
+    "url":"https:\/\/ss64.com\/nt\/winrm.html"
+  },
+  {
+    "command":"WINRS",
+    "description":"Windows Remote Shell",
+    "url":"https:\/\/ss64.com\/nt\/winrs.html"
+  },
+  {
+    "command":"WMIC",
+    "description":"WMI Commands",
+    "url":"https:\/\/ss64.com\/nt\/wmic.html"
+  },
+  {
+    "command":"WPEUTIL",
+    "description":"Run Preinstallation Environment (WinPE) commands",
+    "url":"https:\/\/ss64.com\/nt\/wpeutil.html"
+  },
+  {
+    "command":"WPR",
+    "description":"Windows Performance Recorder",
+    "url":"https:\/\/ss64.com\/nt\/wpr.html"
+  },
+  {
+    "command":"WT",
+    "description":"Windows Terminal",
+    "url":"https:\/\/ss64.com\/nt\/wt.html"
+  },
+  {
+    "command":"WUSA",
+    "description":"Windows Update Standalone Installer",
+    "url":"https:\/\/ss64.com\/nt\/wusa.html"
+  },
+  {
+    "command":"WUAUCLT",
+    "description":"Windows Update",
+    "url":"https:\/\/ss64.com\/nt\/wuauclt.html"
+  },
+  {
+    "command":"XCACLS",
+    "description":"Change file and folder permissions",
+    "url":"https:\/\/ss64.com\/nt\/xcacls.html"
+  },
+  {
+    "command":"XCOPY",
+    "description":"Copy files and folders",
+    "url":"https:\/\/ss64.com\/nt\/xcopy.html"
+  },
+  {
+    "command":"::",
+    "description":"Comment \/ Remark\u00a0\u2022",
+    "url":"https:\/\/ss64.com\/nt\/rem.html"
+  }
+]

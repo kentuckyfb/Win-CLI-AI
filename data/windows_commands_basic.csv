@@ -1,0 +1,259 @@
+command,description,url
+AccessChk,"Get the security descriptor (SDDL) for an object (file, directory, reg key).",https://ss64.com/nt/accesschk.html
+ADDUSERS,Add or list users to/from a CSV file,https://ss64.com/nt/addusers.html
+ADmodcmd,Active Directory Bulk Modify,https://ss64.com/nt/admodcmd.html
+ARP,Address Resolution Protocol,https://ss64.com/nt/arp.html
+ASSOC,Change file extension associations •,https://ss64.com/nt/assoc.html
+ATTRIB,Change file attributes,https://ss64.com/nt/attrib.html
+AUDITPOL,Manage audit policies,https://ss64.com/nt/auditpol.html
+BCDBOOT,Create or repair a system partition,https://ss64.com/nt/bcdboot.html
+BCDEDIT,Manage Boot Configuration Data,https://ss64.com/nt/bcdedit.html
+BITSADMIN,Background Intelligent Transfer Service,https://ss64.com/nt/bitsadmin.html
+BOOTREC,Repair or replace a  partition boot sector,https://ss64.com/nt/bootrec.html
+BREAK,"Do nothing, successfully •",https://ss64.com/nt/break.html
+CACLS,Change file permissions,https://ss64.com/nt/cacls.html
+CALL,Call one batch program from another •,https://ss64.com/nt/call.html
+CERTREQ,Request certificate from a certification authority,https://ss64.com/nt/certreq.html
+CERTUTIL,Manage certification authority (CA) files and services,https://ss64.com/nt/certutil.html
+CD,Change Directory - move to a specific Folder •,https://ss64.com/nt/cd.html
+CHANGE,Change Terminal Server Session properties,https://ss64.com/nt/change.html
+CHANGEPK,Upgrade device Edition/Product Key,https://ss64.com/nt/changepk.html
+CHCP,Change the active console Code Page,https://ss64.com/nt/chcp.html
+CHDIR,Change Directory - move to a specific Folder •,https://ss64.com/nt/cd.html
+CHKDSK,Check Disk - check and repair disk problems,https://ss64.com/nt/chkdsk.html
+CHKNTFS,Check the NTFS file system,https://ss64.com/nt/chkntfs.html
+CHOICE,Accept keyboard input to a batch file,https://ss64.com/nt/choice.html
+CIPHER,"Encrypt or Decrypt files/folders, overwrite data.",https://ss64.com/nt/cipher.html
+CleanMgr,"Automated cleanup of Temp files, recycle bin",https://ss64.com/nt/cleanmgr.html
+CLIP,Copy STDIN to the Windows clipboard,https://ss64.com/nt/clip.html
+CLS,Clear the screen •,https://ss64.com/nt/cls.html
+CMD,Start a new CMD shell,https://ss64.com/nt/cmd.html
+CMDKEY,Manage stored usernames/passwords,https://ss64.com/nt/cmdkey.html
+COLOR,Change colors of the CMD window •,https://ss64.com/nt/color.html
+COMP,Compare the contents of two files or sets of files,https://ss64.com/nt/comp.html
+COMPACT,Compress files or folders on an NTFS partition,https://ss64.com/nt/compact.html
+CON,Console input,https://ss64.com/nt/con.html
+CONVERT,Convert a FAT drive to NTFS,https://ss64.com/nt/convert.html
+COPY,Copy one or more files to another location •,https://ss64.com/nt/copy.html
+Coreinfo,Show the mapping between logical & physical processors,https://ss64.com/nt/coreinfo.html
+CSCcmd,Client-side caching (Offline Files),https://ss64.com/nt/csccmd.html
+CSVDE,Import or Export Active Directory data,https://ss64.com/nt/csvde.html
+CURL,Transfer data from or to a server,https://ss64.com/nt/curl.html
+DATE,Display or set the date •,https://ss64.com/nt/date.html
+DEFRAG,Defragment hard drive,https://ss64.com/nt/defrag.html
+DEL,Delete one or more files •,https://ss64.com/nt/del.html
+DELPROF,Delete user profiles,https://ss64.com/nt/delprof.html
+DELTREE,Delete a folder and all subfolders,https://ss64.com/nt/deltree.html
+DevCon,Device Manager Command Line Utility,https://ss64.com/nt/devcon.html
+DIR,Display a list of files and folders •,https://ss64.com/nt/dir.html
+DISKPART,Disk Administration,https://ss64.com/nt/diskpart.html
+DISKSHADOW,Volume Shadow Copy Service,https://ss64.com/nt/diskshadow.html
+DISM,Deployment Image Servicing and Management,https://ss64.com/nt/dism.html
+DisplaySwitch,Specify which display to use and how to use it,https://ss64.com/nt/displayswitch.html
+DNSCMD,Manage DNS servers,https://ss64.com/nt/dnscmd.html
+DOSKEY,"Edit command line, recall commands, and create macros",https://ss64.com/nt/doskey.html
+DriverQuery,Display installed device drivers,https://ss64.com/nt/driverquery.html
+DSACLs,Active Directory ACLs,https://ss64.com/nt/dsacls.html
+DSAdd,Add items to Active Directory (user group computer),https://ss64.com/nt/dsadd.html
+DSGet,View items in Active Directory (user group computer),https://ss64.com/nt/dsget.html
+DSQuery,Search Active Directory (user group computer),https://ss64.com/nt/dsquery.html
+DSMod,Modify items in Active Directory (user group computer),https://ss64.com/nt/dsmod.html
+DSMove,Move an Active Directory Object,https://ss64.com/nt/dsmove.html
+DSRM,Remove items from Active Directory,https://ss64.com/nt/dsrm.html
+DSREGCMD,Directory Service Registration,https://ss64.com/nt/dsregcmd.html
+DU,Display  directory sizes/usage,https://ss64.com/nt/du.html
+ECHO,Display message on screen •,https://ss64.com/nt/echo.html
+ENDLOCAL,End localisation of the environment in a batch file •,https://ss64.com/nt/endlocal.html
+ERASE,Delete one or more files •,https://ss64.com/nt/del.html
+ESENTUTL,Extensible Storage Engine utilities,https://ss64.com/nt/esentutl.html
+EVENTCREATE,Add a message to the Windows event log,https://ss64.com/nt/eventcreate.html
+EXIT,Quit the current script/routine and set an errorlevel •,https://ss64.com/nt/exit.html
+EXPAND,Uncompress CAB files,https://ss64.com/nt/expand.html
+EXPLORER,Open Windows Explorer,https://ss64.com/nt/explorer.html
+EXTRACT,Uncompress CAB files,https://ss64.com/nt/extract.html
+FC,Compare two files,https://ss64.com/nt/fc.html
+FIND,Search for a text string in a file,https://ss64.com/nt/find.html
+FINDSTR,Search for strings in files,https://ss64.com/nt/findstr.html
+FLTMC,Manage MiniFilter drivers,https://ss64.com/nt/fltmc.html
+FONDUE,Features on Demand User Experience Tool,https://ss64.com/nt/fondue.html
+FOR /F,Loop command: against a set of files •,https://ss64.com/nt/for_f.html
+FOR /F,Loop command: against the results of another command •,https://ss64.com/nt/for_cmd.html
+FOR,"Loop command: all options Files, Directory, List •",https://ss64.com/nt/for.html
+FORFILES,Batch process multiple files,https://ss64.com/nt/forfiles.html
+FORMAT,Format a disk,https://ss64.com/nt/format.html
+FREEDISK,Check free disk space,https://ss64.com/nt/freedisk.html
+FSUTIL,File and Volume utilities,https://ss64.com/nt/fsutil.html
+FTP,File Transfer Protocol,https://ss64.com/nt/ftp.html
+FTYPE,File extension file type associations •,https://ss64.com/nt/ftype.html
+GETMAC,Display the Media Access Control (MAC) address,https://ss64.com/nt/getmac.html
+GOTO,Direct a batch program to jump to a labelled line •,https://ss64.com/nt/goto.html
+GPRESULT,Display Resultant Set of Policy information,https://ss64.com/nt/gpresult.html
+GPUPDATE,Update Group Policy settings,https://ss64.com/nt/gpupdate.html
+HELP,Online Help,https://ss64.com/nt/help.html
+HOSTNAME,Display the host name of the computer,https://ss64.com/nt/hostname.html
+iCACLS,Change file and folder permissions,https://ss64.com/nt/icacls.html
+IEXPRESS,Create a self extracting ZIP file archive,https://ss64.com/nt/iexpress.html
+IF,Conditionally perform a command •,https://ss64.com/nt/if.html
+IFMEMBER,Is the current user a member of a group,https://ss64.com/nt/ifmember.html
+IPCONFIG,Configure IP,https://ss64.com/nt/ipconfig.html
+INUSE,Replace files that are in use by the OS,https://ss64.com/nt/inuse.html
+KLIST,List cached Kerberos tickets,https://ss64.com/nt/klist.html
+LABEL,Edit a disk label,https://ss64.com/nt/label.html
+LGPO,Local Group Policy Object utility,https://ss64.com/nt/lgpo.html
+LODCTR,Load PerfMon performance counters,https://ss64.com/nt/lodctr.html
+LOGMAN,Manage Performance Monitor logs,https://ss64.com/nt/logman.html
+LOGOFF,Log a user off,https://ss64.com/nt/logoff.html
+MAKECAB,Create .CAB files,https://ss64.com/nt/makecab.html
+Manage-BDE,BitLocker Drive Encryption,https://ss64.com/nt/manage-bde.html
+MBR2GPT,Convert a disk partition from  Master Boot Record to a GPT,https://ss64.com/nt/mbr2gpt.html
+MD,Create a new Directory •,https://ss64.com/nt/md.html
+MKLINK,Create a symbolic link (linkd) •,https://ss64.com/nt/mklink.html
+MODE,Configure a system device COM/LPT/CON,https://ss64.com/nt/mode.html
+MORE,"Display output, one screen at a time",https://ss64.com/nt/more.html
+MOUNTVOL,Manage a volume mount point,https://ss64.com/nt/mountvol.html
+MOVE,Move files from one folder to another •,https://ss64.com/nt/move.html
+MSG,Send a message,https://ss64.com/nt/msg.html
+MSIEXEC,Microsoft Windows Installer,https://ss64.com/nt/msiexec.html
+MSINFO32,System Information,https://ss64.com/nt/msinfo32.html
+MSTSC,Terminal Server Connection/Remote Desktop Protocol(RDP),https://ss64.com/nt/mstsc.html
+NET,Manage network resources,https://ss64.com/nt/net.html
+NETDOM,Domain Manager,https://ss64.com/nt/netdom.html
+NETSH,"Configure Network Interfaces, Firewall & Remote access",https://ss64.com/nt/netsh.html
+NBTSTAT,Display networking statistics (NetBIOS over TCP/IP),https://ss64.com/nt/nbtstat.html
+NETSTAT,Display networking statistics (TCP/IP),https://ss64.com/nt/netstat.html
+NLTEST,Network Location Test (AD),https://ss64.com/nt/nltest.html
+NMBIND,Manage Hyper-V network bindings,https://ss64.com/nt/nmbind.html
+NSLOOKUP,Name server lookup,https://ss64.com/nt/nslookup.html
+NTBACKUP,Windows Backup folders to tape,https://ss64.com/nt/ntbackup.html
+NTDSUtil,Active Directory Domain Services management,https://ss64.com/nt/ntdsutil.html
+NTRIGHTS,Edit user account rights,https://ss64.com/nt/ntrights.html
+NVSPBIND,Modify network bindings,https://ss64.com/nt/nvspbind.html
+OPENFILES,Query or display open files,https://ss64.com/nt/openfiles.html
+PATH,Display or set a search path for executable files •,https://ss64.com/nt/path.html
+PATHPING,Trace route plus network latency and packet loss,https://ss64.com/nt/pathping.html
+PAUSE,Suspend processing of a batch file •,https://ss64.com/nt/pause.html
+PING,Test a network connection,https://ss64.com/nt/ping.html
+PKTMON,Monitor internal packet propagation and packet drop reports,https://ss64.com/nt/pktmon.html
+PNPUTIL,Plug and Play Utility,https://ss64.com/nt/pnputil.html
+POPD,Return to a previous directory saved by PUSHD •,https://ss64.com/nt/popd.html
+PORTQRY,Display the status of ports and services,https://ss64.com/nt/portqry.html
+POWERCFG,Configure power settings,https://ss64.com/nt/powercfg.html
+PRINT,Print a text file,https://ss64.com/nt/print.html
+PRINTBRM,Print queue Backup/Recovery,https://ss64.com/nt/printbrm.html
+PRNCNFG,Configure a printer,https://ss64.com/nt/prncnfg.html
+PRNDRVR,"Add, delete or list print drivers.",https://ss64.com/nt/prndrvr.html
+PRNJOBS,"Pause, resume, cancel, or list print jobs.",https://ss64.com/nt/prnjobs.html
+PRNMNGR,"Add, delete, or list printer connections.",https://ss64.com/nt/prnmngr.html
+PRNPORT,"Manage Printer Ports, change port configuration.",https://ss64.com/nt/prnport.html
+PRNQCTL,"Manage Print Queues, print a test page.",https://ss64.com/nt/prnqctl.html
+ProcDump,Monitor an application for CPU spikes,https://ss64.com/nt/procdump.html
+PROMPT,Change the command prompt •,https://ss64.com/nt/prompt.html
+PsExec,Execute process remotely,https://ss64.com/nt/psexec.html
+PsFile,Show files opened remotely,https://ss64.com/nt/psfile.html
+PsGetSid,Display the SID of a computer or a user,https://ss64.com/nt/psgetsid.html
+PsInfo,List information about a system,https://ss64.com/nt/psinfo.html
+PsKill,Kill processes by name or process ID,https://ss64.com/nt/pskill.html
+PsList,List detailed information about processes,https://ss64.com/nt/pslist.html
+PsLoggedOn,Who’s logged on (locally or via resource sharing),https://ss64.com/nt/psloggedon.html
+PsLogList,Event log records,https://ss64.com/nt/psloglist.html
+PsPasswd,Change account password,https://ss64.com/nt/pspasswd.html
+PsPing,Measure network performance,https://ss64.com/nt/psping.html
+PsService,View and control services,https://ss64.com/nt/psservice.html
+PsShutdown,Shutdown or reboot a computer,https://ss64.com/nt/psshutdown.html
+PsSuspend,Suspend processes,https://ss64.com/nt/pssuspend.html
+PUSHD,Save and then change the current directory •,https://ss64.com/nt/pushd.html
+QPROCESS,Query Process Display processes,https://ss64.com/nt/query-process.html
+QWinsta,Query Session Display all sessions (TS/Remote Desktop),https://ss64.com/nt/query-session.html
+QAppSrv,Query TermServer List all servers (TS/Remote Desktop),https://ss64.com/nt/query-termserver.html
+QUSER,Query User Display user sessions (TS/Remote Desktop),https://ss64.com/nt/query-user.html
+RASDIAL,Manage RAS connections,https://ss64.com/nt/rasdial.html
+RASPHONE,Manage RAS connections,https://ss64.com/nt/rasphone.html
+RD,Delete a Directory •,https://ss64.com/nt/rd.html
+REAgentC,Configure WindowsRE and System Reset,https://ss64.com/nt/reagentc.html
+RECOVER,Recover a damaged file from a defective disk,https://ss64.com/nt/recover.html
+REG,"Registry: Read, Set, Export, Delete keys and values",https://ss64.com/nt/reg.html
+REGEDIT,Import or export registry settings,https://ss64.com/nt/regedit.html
+REGSVR32,Register or unregister a DLL,https://ss64.com/nt/regsvr32.html
+REGINI,Change Registry Permissions,https://ss64.com/nt/regini.html
+REM,Record comments (remarks) in a batch file •,https://ss64.com/nt/rem.html
+REN,Rename a file or files •,https://ss64.com/nt/ren.html
+REPLACE,Replace or update one file with another,https://ss64.com/nt/replace.html
+Reset Session,Delete a Remote Desktop Session,https://ss64.com/nt/reset-session.html
+RMDIR,Delete a Directory •,https://ss64.com/nt/rd.html
+RMTSHARE,Share a folder or a printer,https://ss64.com/nt/rmtshare.html
+ROBOCOPY,Robust File and Folder Copy,https://ss64.com/nt/robocopy.html
+ROUTE,Manipulate network routing tables,https://ss64.com/nt/route.html
+RUN,Start | RUN commands,https://ss64.com/nt/run.html
+RUNAS,Execute a program under a different user account,https://ss64.com/nt/runas.html
+RUNDLL32,Run a DLL command (add/remove print connections),https://ss64.com/nt/rundll32.html
+SC,Service Control,https://ss64.com/nt/sc.html
+SCHTASKS,Schedule a command to run at a specific time,https://ss64.com/nt/schtasks.html
+ScriptRunner,Run one or more scripts in sequence,https://ss64.com/nt/scriptrunner.html
+SET,"Display, set, or remove session environment variables •",https://ss64.com/nt/set.html
+SETLOCAL,Control the visibility of environment variables •,https://ss64.com/nt/setlocal.html
+SetObjectSecurity,"Set  security  for  an object (file, directory, reg key etc).",https://ss64.com/nt/setobjectsecurity.html
+SetSPN,Edit Service Principal Names,https://ss64.com/nt/setspn.html
+SETX,Set environment variables,https://ss64.com/nt/setx.html
+SFC,System File Checker,https://ss64.com/nt/sfc.html
+SHARE,List or edit a file share or print share,https://ss64.com/nt/share.html
+ShellRunAs,Run a command under a different user account,https://ss64.com/nt/shellrunas.html
+SHIFT,Shift the position of batch file parameters •,https://ss64.com/nt/shift.html
+SHORTCUT,Create a windows shortcut (.LNK file),https://ss64.com/nt/shortcut.html
+SHUTDOWN,Shutdown the computer,https://ss64.com/nt/shutdown.html
+SIGCHECK,Display file version no. VirusTotal status & timestamp,https://ss64.com/nt/sigcheck.html
+SLMGR,Software Licensing Management,https://ss64.com/nt/slmgr.html
+SORT,Sort input,https://ss64.com/nt/sort.html
+SSH,OpenSSH remote login client,https://ss64.com/nt/ssh.html
+START,"Start a program, command or batch file •",https://ss64.com/nt/start.html
+STREAMS,List any Alternate Data  Streams (ADS) within a file or directory,https://ss64.com/nt/streams.html
+STRINGS,Search for ANSI and UNICODE strings in binary files,https://ss64.com/nt/strings.html
+SUBINACL,"Edit file and folder Permissions, Ownership and Domain",https://ss64.com/nt/subinacl.html
+SUBST,Associate a path with a drive letter,https://ss64.com/nt/subst.html
+SXSTRACE,Diagnose side-by-side problems,https://ss64.com/nt/sxstrace.html
+SYSMON,Monitor and log system activity to the Windows event log,https://ss64.com/nt/sysmon.html
+SYSTEMINFO,List system configuration,https://ss64.com/nt/systeminfo.html
+TAKEOWN,Take ownership of a file,https://ss64.com/nt/takeown.html
+TAR,"Store, list or extract files in an archive",https://ss64.com/nt/tar.html
+TASKLIST,List running applications and services,https://ss64.com/nt/tasklist.html
+TASKKILL,End a running process,https://ss64.com/nt/taskkill.html
+TELNET,Communicate with another host using the TELNET protocol,https://ss64.com/nt/telnet.html
+TIME,Display or set the system time •,https://ss64.com/nt/time.html
+TIMEOUT,Delay processing of a batch file/command,https://ss64.com/nt/timeout.html
+TITLE,Set the window title for a CMD.EXE session •,https://ss64.com/nt/title.html
+TLIST,Task list with full path,https://ss64.com/nt/tlist.html
+TOUCH,Change file timestamps,https://ss64.com/nt/touch.html
+TRACERT,Trace route to a remote host,https://ss64.com/nt/tracert.html
+TREE,Graphical display of folder structure,https://ss64.com/nt/tree.html
+TSDISCON,Disconnect a Remote Desktop Session,https://ss64.com/nt/tsdiscon.html
+TSKILL,End a running process,https://ss64.com/nt/tskill.html
+TYPE,Display the contents of a text file •,https://ss64.com/nt/type.html
+TypePerf,Write Performance Monitor data to a log file,https://ss64.com/nt/typeperf.html
+TZUTIL,Time Zone Utility,https://ss64.com/nt/tzutil.html
+VBC,Visual Basic compiler,https://ss64.com/nt/vbc.html
+VER,Display version information •,https://ss64.com/nt/ver.html
+VERIFY,Verify that files have been saved •,https://ss64.com/nt/verify.html
+VMConnect,Connect to a Hyper-V Virtual Machine,https://ss64.com/nt/vmconnect.html
+VOL,Display a disk label •,https://ss64.com/nt/vol.html
+VSSADMIN,Display volume shadow copy backups + writers/providers,https://ss64.com/nt/vssadmin.html
+W32TM,Time Service,https://ss64.com/nt/w32tm.html
+WAITFOR,Wait for or send a signal,https://ss64.com/nt/waitfor.html
+WBADMIN,Windows Backup Admin,https://ss64.com/nt/wbadmin.html
+WECUTIL,Windows Event Collector Utility,https://ss64.com/nt/wecutil.html
+WEVTUTIL,"Clear event logs, enable/disable/query logs",https://ss64.com/nt/wevtutil.html
+WHERE,Locate and display files in a directory tree,https://ss64.com/nt/where.html
+WHOAMI,Output the current UserName and domain,https://ss64.com/nt/whoami.html
+WHOIS,Lookup the registration record for a domain,https://ss64.com/nt/whois.html
+WINDIFF,Compare the contents of two files or sets of files,https://ss64.com/nt/windiff.html
+WINGET,Windows Package Manager (coming May 2021),https://ss64.com/nt/winget.html
+WINMGMT,Manage the  WMI service/WMI repository,https://ss64.com/nt/winmgmt.html
+WINRM,Windows Remote Management,https://ss64.com/nt/winrm.html
+WINRS,Windows Remote Shell,https://ss64.com/nt/winrs.html
+WMIC,WMI Commands,https://ss64.com/nt/wmic.html
+WPEUTIL,Run Preinstallation Environment (WinPE) commands,https://ss64.com/nt/wpeutil.html
+WPR,Windows Performance Recorder,https://ss64.com/nt/wpr.html
+WT,Windows Terminal,https://ss64.com/nt/wt.html
+WUSA,Windows Update Standalone Installer,https://ss64.com/nt/wusa.html
+WUAUCLT,Windows Update,https://ss64.com/nt/wuauclt.html
+XCACLS,Change file and folder permissions,https://ss64.com/nt/xcacls.html
+XCOPY,Copy files and folders,https://ss64.com/nt/xcopy.html
+::,Comment / Remark •,https://ss64.com/nt/rem.html

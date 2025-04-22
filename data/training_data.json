@@ -1,0 +1,1214 @@
+[
+  {
+    "query":"How do I get the security descriptor (sddl) for an object (file, directory, reg key)?",
+    "command":"AccessChk"
+  },
+  {
+    "query":"How do I add or list users to\/from a csv file?",
+    "command":"ADDUSERS"
+  },
+  {
+    "query":"Show me add or list users to\/from a csv file",
+    "command":"ADDUSERS"
+  },
+  {
+    "query":"How do I active directory bulk modify?",
+    "command":"ADmodcmd"
+  },
+  {
+    "query":"How do I address resolution protocol?",
+    "command":"ARP"
+  },
+  {
+    "query":"How do I change file extension associations\u00a0\u2022?",
+    "command":"ASSOC"
+  },
+  {
+    "query":"How do I change file attributes?",
+    "command":"ATTRIB"
+  },
+  {
+    "query":"How do I manage audit policies?",
+    "command":"AUDITPOL"
+  },
+  {
+    "query":"How do I create or repair a system partition?",
+    "command":"BCDBOOT"
+  },
+  {
+    "query":"How do I manage boot configuration data?",
+    "command":"BCDEDIT"
+  },
+  {
+    "query":"How do I background intelligent transfer service?",
+    "command":"BITSADMIN"
+  },
+  {
+    "query":"How do I repair or replace a  partition boot sector?",
+    "command":"BOOTREC"
+  },
+  {
+    "query":"How do I do nothing, successfully \u2022?",
+    "command":"BREAK"
+  },
+  {
+    "query":"How do I change file permissions?",
+    "command":"CACLS"
+  },
+  {
+    "query":"How do I call one batch program from another \u2022?",
+    "command":"CALL"
+  },
+  {
+    "query":"How do I request certificate from a certification authority?",
+    "command":"CERTREQ"
+  },
+  {
+    "query":"How do I manage certification authority (ca) files and services?",
+    "command":"CERTUTIL"
+  },
+  {
+    "query":"How do I change directory - move to a specific folder\u00a0\u2022?",
+    "command":"CD"
+  },
+  {
+    "query":"How do I change terminal server session properties?",
+    "command":"CHANGE"
+  },
+  {
+    "query":"How do I upgrade device edition\/product key?",
+    "command":"CHANGEPK"
+  },
+  {
+    "query":"How do I change the active console code page?",
+    "command":"CHCP"
+  },
+  {
+    "query":"How do I change directory - move to a specific folder\u00a0\u2022?",
+    "command":"CHDIR"
+  },
+  {
+    "query":"How do I check disk - check and repair disk problems?",
+    "command":"CHKDSK"
+  },
+  {
+    "query":"How do I check the ntfs file system?",
+    "command":"CHKNTFS"
+  },
+  {
+    "query":"How do I accept keyboard input to a batch file?",
+    "command":"CHOICE"
+  },
+  {
+    "query":"How do I encrypt or decrypt files\/folders, overwrite data?",
+    "command":"CIPHER"
+  },
+  {
+    "query":"How do I automated cleanup of temp files, recycle bin?",
+    "command":"CleanMgr"
+  },
+  {
+    "query":"How do I copy stdin to the windows clipboard?",
+    "command":"CLIP"
+  },
+  {
+    "query":"How do I clear the screen\u00a0\u2022?",
+    "command":"CLS"
+  },
+  {
+    "query":"How do I start a new cmd shell?",
+    "command":"CMD"
+  },
+  {
+    "query":"How do I manage stored usernames\/passwords?",
+    "command":"CMDKEY"
+  },
+  {
+    "query":"How do I change colors of the cmd window\u00a0\u2022?",
+    "command":"COLOR"
+  },
+  {
+    "query":"How do I compare the contents of two files or sets of files?",
+    "command":"COMP"
+  },
+  {
+    "query":"How do I compress files or folders on an ntfs partition?",
+    "command":"COMPACT"
+  },
+  {
+    "query":"How do I console input?",
+    "command":"CON"
+  },
+  {
+    "query":"How do I convert a fat drive to ntfs?",
+    "command":"CONVERT"
+  },
+  {
+    "query":"How do I copy one or more files to another location\u00a0\u2022?",
+    "command":"COPY"
+  },
+  {
+    "query":"How do I show the mapping between logical & physical processors?",
+    "command":"Coreinfo"
+  },
+  {
+    "query":"How do I client-side caching (offline files)?",
+    "command":"CSCcmd"
+  },
+  {
+    "query":"How do I import or export active directory data?",
+    "command":"CSVDE"
+  },
+  {
+    "query":"How do I transfer data from or to a server?",
+    "command":"CURL"
+  },
+  {
+    "query":"How do I display or set the date\u00a0\u2022?",
+    "command":"DATE"
+  },
+  {
+    "query":"I want to see display or set the date\u00a0\u2022",
+    "command":"DATE"
+  },
+  {
+    "query":"How do I defragment hard drive?",
+    "command":"DEFRAG"
+  },
+  {
+    "query":"How do I delete one or more files\u00a0\u2022?",
+    "command":"DEL"
+  },
+  {
+    "query":"How do I delete user profiles?",
+    "command":"DELPROF"
+  },
+  {
+    "query":"How do I delete a folder and all subfolders?",
+    "command":"DELTREE"
+  },
+  {
+    "query":"How do I device manager command line utility?",
+    "command":"DevCon"
+  },
+  {
+    "query":"How do I display a list of files and folders\u00a0\u2022?",
+    "command":"DIR"
+  },
+  {
+    "query":"Show me display a list of files and folders\u00a0\u2022",
+    "command":"DIR"
+  },
+  {
+    "query":"I want to see display a list of files and folders\u00a0\u2022",
+    "command":"DIR"
+  },
+  {
+    "query":"List all files in the current directory",
+    "command":"dir"
+  },
+  {
+    "query":"How do I disk administration?",
+    "command":"DISKPART"
+  },
+  {
+    "query":"How do I volume shadow copy service?",
+    "command":"DISKSHADOW"
+  },
+  {
+    "query":"How do I deployment image servicing and management?",
+    "command":"DISM"
+  },
+  {
+    "query":"How do I specify which display to use and how to use it?",
+    "command":"DisplaySwitch"
+  },
+  {
+    "query":"I want to see specify which display to use and how to use it",
+    "command":"DisplaySwitch"
+  },
+  {
+    "query":"How do I manage dns servers?",
+    "command":"DNSCMD"
+  },
+  {
+    "query":"How do I edit command line, recall commands, and create macros?",
+    "command":"DOSKEY"
+  },
+  {
+    "query":"How do I display installed device drivers?",
+    "command":"DriverQuery"
+  },
+  {
+    "query":"I want to see display installed device drivers",
+    "command":"DriverQuery"
+  },
+  {
+    "query":"How do I active directory acls?",
+    "command":"DSACLs"
+  },
+  {
+    "query":"How do I add items to active directory (user group computer)?",
+    "command":"DSAdd"
+  },
+  {
+    "query":"How do I view items in active directory (user group computer)?",
+    "command":"DSGet"
+  },
+  {
+    "query":"How do I search active directory (user group computer)?",
+    "command":"DSQuery"
+  },
+  {
+    "query":"How do I modify items in active directory (user group computer)?",
+    "command":"DSMod"
+  },
+  {
+    "query":"How do I move an active directory object?",
+    "command":"DSMove"
+  },
+  {
+    "query":"How do I remove items from active directory?",
+    "command":"DSRM"
+  },
+  {
+    "query":"How do I directory service registration?",
+    "command":"DSREGCMD"
+  },
+  {
+    "query":"How do I display  directory sizes\/usage?",
+    "command":"DU"
+  },
+  {
+    "query":"I want to see display  directory sizes\/usage",
+    "command":"DU"
+  },
+  {
+    "query":"How do I display message on screen\u00a0\u2022?",
+    "command":"ECHO"
+  },
+  {
+    "query":"I want to see display message on screen\u00a0\u2022",
+    "command":"ECHO"
+  },
+  {
+    "query":"How do I end localisation of the environment in a batch file\u00a0\u2022?",
+    "command":"ENDLOCAL"
+  },
+  {
+    "query":"How do I delete one or more files\u00a0\u2022?",
+    "command":"ERASE"
+  },
+  {
+    "query":"How do I extensible storage engine utilities?",
+    "command":"ESENTUTL"
+  },
+  {
+    "query":"How do I add a message to the windows event log?",
+    "command":"EVENTCREATE"
+  },
+  {
+    "query":"How do I quit the current script\/routine and set an errorlevel\u00a0\u2022?",
+    "command":"EXIT"
+  },
+  {
+    "query":"How do I uncompress cab files?",
+    "command":"EXPAND"
+  },
+  {
+    "query":"How do I open windows explorer?",
+    "command":"EXPLORER"
+  },
+  {
+    "query":"How do I uncompress cab files?",
+    "command":"EXTRACT"
+  },
+  {
+    "query":"How do I compare two files?",
+    "command":"FC"
+  },
+  {
+    "query":"How do I search for a text string in a file?",
+    "command":"FIND"
+  },
+  {
+    "query":"How do I search for strings in files?",
+    "command":"FINDSTR"
+  },
+  {
+    "query":"How do I manage minifilter drivers?",
+    "command":"FLTMC"
+  },
+  {
+    "query":"How do I features on demand user experience tool?",
+    "command":"FONDUE"
+  },
+  {
+    "query":"How do I loop command: against a set of files\u00a0\u2022?",
+    "command":"FOR \/F"
+  },
+  {
+    "query":"How do I loop command: against the results of another command\u00a0\u2022?",
+    "command":"FOR \/F"
+  },
+  {
+    "query":"How do I loop command: all options files, directory, list\u00a0\u2022?",
+    "command":"FOR"
+  },
+  {
+    "query":"Show me loop command: all options files, directory, list\u00a0\u2022",
+    "command":"FOR"
+  },
+  {
+    "query":"How do I batch process multiple files?",
+    "command":"FORFILES"
+  },
+  {
+    "query":"How do I format a disk?",
+    "command":"FORMAT"
+  },
+  {
+    "query":"How do I check free disk space?",
+    "command":"FREEDISK"
+  },
+  {
+    "query":"How do I file and volume utilities?",
+    "command":"FSUTIL"
+  },
+  {
+    "query":"How do I file transfer protocol?",
+    "command":"FTP"
+  },
+  {
+    "query":"How do I file extension file type associations\u00a0\u2022?",
+    "command":"FTYPE"
+  },
+  {
+    "query":"How do I display the media access control (mac) address?",
+    "command":"GETMAC"
+  },
+  {
+    "query":"I want to see display the media access control (mac) address",
+    "command":"GETMAC"
+  },
+  {
+    "query":"How do I direct a batch program to jump to a labelled line\u00a0\u2022?",
+    "command":"GOTO"
+  },
+  {
+    "query":"How do I display resultant set of policy information?",
+    "command":"GPRESULT"
+  },
+  {
+    "query":"I want to see display resultant set of policy information",
+    "command":"GPRESULT"
+  },
+  {
+    "query":"How do I update group policy settings?",
+    "command":"GPUPDATE"
+  },
+  {
+    "query":"How do I online help?",
+    "command":"HELP"
+  },
+  {
+    "query":"How do I display the host name of the computer?",
+    "command":"HOSTNAME"
+  },
+  {
+    "query":"I want to see display the host name of the computer",
+    "command":"HOSTNAME"
+  },
+  {
+    "query":"How do I change file and folder permissions?",
+    "command":"iCACLS"
+  },
+  {
+    "query":"How do I create a self extracting zip file archive?",
+    "command":"IEXPRESS"
+  },
+  {
+    "query":"How do I conditionally perform a command\u00a0\u2022?",
+    "command":"IF"
+  },
+  {
+    "query":"How do I is the current user a member of a group?",
+    "command":"IFMEMBER"
+  },
+  {
+    "query":"How do I configure ip?",
+    "command":"IPCONFIG"
+  },
+  {
+    "query":"How do I replace files that are in use by the os?",
+    "command":"INUSE"
+  },
+  {
+    "query":"How do I list cached kerberos tickets?",
+    "command":"KLIST"
+  },
+  {
+    "query":"Show me list cached kerberos tickets",
+    "command":"KLIST"
+  },
+  {
+    "query":"How do I edit a disk label?",
+    "command":"LABEL"
+  },
+  {
+    "query":"How do I local group policy object utility?",
+    "command":"LGPO"
+  },
+  {
+    "query":"How do I load perfmon performance counters?",
+    "command":"LODCTR"
+  },
+  {
+    "query":"How do I manage performance monitor logs?",
+    "command":"LOGMAN"
+  },
+  {
+    "query":"How do I log a user off?",
+    "command":"LOGOFF"
+  },
+  {
+    "query":"How do I create .cab files?",
+    "command":"MAKECAB"
+  },
+  {
+    "query":"How do I bitlocker drive encryption?",
+    "command":"Manage-BDE"
+  },
+  {
+    "query":"How do I convert a disk partition from  master boot record to a gpt?",
+    "command":"MBR2GPT"
+  },
+  {
+    "query":"How do I create a new directory\u00a0\u2022?",
+    "command":"MD"
+  },
+  {
+    "query":"How do I create a symbolic link (linkd)\u00a0\u2022?",
+    "command":"MKLINK"
+  },
+  {
+    "query":"How do I configure a system device com\/lpt\/con?",
+    "command":"MODE"
+  },
+  {
+    "query":"How do I display output, one screen at a time?",
+    "command":"MORE"
+  },
+  {
+    "query":"I want to see display output, one screen at a time",
+    "command":"MORE"
+  },
+  {
+    "query":"How do I manage a volume mount point?",
+    "command":"MOUNTVOL"
+  },
+  {
+    "query":"How do I move files from one folder to another\u00a0\u2022?",
+    "command":"MOVE"
+  },
+  {
+    "query":"How do I send a message?",
+    "command":"MSG"
+  },
+  {
+    "query":"How do I microsoft windows installer?",
+    "command":"MSIEXEC"
+  },
+  {
+    "query":"How do I system information?",
+    "command":"MSINFO32"
+  },
+  {
+    "query":"How do I terminal server connection\/remote desktop protocol(rdp)?",
+    "command":"MSTSC"
+  },
+  {
+    "query":"How do I manage network resources?",
+    "command":"NET"
+  },
+  {
+    "query":"How do I domain manager?",
+    "command":"NETDOM"
+  },
+  {
+    "query":"How do I configure network interfaces, firewall & remote access?",
+    "command":"NETSH"
+  },
+  {
+    "query":"How do I display networking statistics (netbios over tcp\/ip)?",
+    "command":"NBTSTAT"
+  },
+  {
+    "query":"I want to see display networking statistics (netbios over tcp\/ip)",
+    "command":"NBTSTAT"
+  },
+  {
+    "query":"How do I display networking statistics (tcp\/ip)?",
+    "command":"NETSTAT"
+  },
+  {
+    "query":"I want to see display networking statistics (tcp\/ip)",
+    "command":"NETSTAT"
+  },
+  {
+    "query":"How do I network location test (ad)?",
+    "command":"NLTEST"
+  },
+  {
+    "query":"How do I manage hyper-v network bindings?",
+    "command":"NMBIND"
+  },
+  {
+    "query":"How do I name server lookup?",
+    "command":"NSLOOKUP"
+  },
+  {
+    "query":"How do I windows backup folders to tape?",
+    "command":"NTBACKUP"
+  },
+  {
+    "query":"How do I active directory domain services management?",
+    "command":"NTDSUtil"
+  },
+  {
+    "query":"How do I edit user account rights?",
+    "command":"NTRIGHTS"
+  },
+  {
+    "query":"How do I modify network bindings?",
+    "command":"NVSPBIND"
+  },
+  {
+    "query":"How do I query or display open files?",
+    "command":"OPENFILES"
+  },
+  {
+    "query":"I want to see query or display open files",
+    "command":"OPENFILES"
+  },
+  {
+    "query":"How do I display or set a search path for executable files\u00a0\u2022?",
+    "command":"PATH"
+  },
+  {
+    "query":"I want to see display or set a search path for executable files\u00a0\u2022",
+    "command":"PATH"
+  },
+  {
+    "query":"How do I trace route plus network latency and packet loss?",
+    "command":"PATHPING"
+  },
+  {
+    "query":"How do I suspend processing of a batch file\u00a0\u2022?",
+    "command":"PAUSE"
+  },
+  {
+    "query":"How do I test a network connection?",
+    "command":"PING"
+  },
+  {
+    "query":"How do I monitor internal packet propagation and packet drop reports?",
+    "command":"PKTMON"
+  },
+  {
+    "query":"How do I plug and play utility?",
+    "command":"PNPUTIL"
+  },
+  {
+    "query":"How do I return to a previous directory saved by pushd\u00a0\u2022?",
+    "command":"POPD"
+  },
+  {
+    "query":"How do I display the status of ports and services?",
+    "command":"PORTQRY"
+  },
+  {
+    "query":"I want to see display the status of ports and services",
+    "command":"PORTQRY"
+  },
+  {
+    "query":"How do I configure power settings?",
+    "command":"POWERCFG"
+  },
+  {
+    "query":"How do I print a text file?",
+    "command":"PRINT"
+  },
+  {
+    "query":"How do I print queue backup\/recovery?",
+    "command":"PRINTBRM"
+  },
+  {
+    "query":"How do I configure a printer?",
+    "command":"PRNCNFG"
+  },
+  {
+    "query":"How do I add, delete or list print drivers?",
+    "command":"PRNDRVR"
+  },
+  {
+    "query":"Show me add, delete or list print drivers",
+    "command":"PRNDRVR"
+  },
+  {
+    "query":"How do I pause, resume, cancel, or list print jobs?",
+    "command":"PRNJOBS"
+  },
+  {
+    "query":"Show me pause, resume, cancel, or list print jobs",
+    "command":"PRNJOBS"
+  },
+  {
+    "query":"How do I add, delete, or list printer connections?",
+    "command":"PRNMNGR"
+  },
+  {
+    "query":"Show me add, delete, or list printer connections",
+    "command":"PRNMNGR"
+  },
+  {
+    "query":"How do I manage printer ports, change port configuration?",
+    "command":"PRNPORT"
+  },
+  {
+    "query":"How do I manage print queues, print a test page?",
+    "command":"PRNQCTL"
+  },
+  {
+    "query":"How do I monitor an application for cpu spikes?",
+    "command":"ProcDump"
+  },
+  {
+    "query":"How do I change the command prompt\u00a0\u2022?",
+    "command":"PROMPT"
+  },
+  {
+    "query":"How do I execute process remotely?",
+    "command":"PsExec"
+  },
+  {
+    "query":"How do I show files opened remotely?",
+    "command":"PsFile"
+  },
+  {
+    "query":"How do I display the sid of a computer or a user?",
+    "command":"PsGetSid"
+  },
+  {
+    "query":"I want to see display the sid of a computer or a user",
+    "command":"PsGetSid"
+  },
+  {
+    "query":"How do I list information about a system?",
+    "command":"PsInfo"
+  },
+  {
+    "query":"Show me list information about a system",
+    "command":"PsInfo"
+  },
+  {
+    "query":"How do I kill processes by name or process id?",
+    "command":"PsKill"
+  },
+  {
+    "query":"How do I list detailed information about processes?",
+    "command":"PsList"
+  },
+  {
+    "query":"Show me list detailed information about processes",
+    "command":"PsList"
+  },
+  {
+    "query":"How do I who\u2019s logged on (locally or via resource sharing)?",
+    "command":"PsLoggedOn"
+  },
+  {
+    "query":"How do I event log records?",
+    "command":"PsLogList"
+  },
+  {
+    "query":"How do I change account password?",
+    "command":"PsPasswd"
+  },
+  {
+    "query":"How do I measure network performance?",
+    "command":"PsPing"
+  },
+  {
+    "query":"How do I view and control services?",
+    "command":"PsService"
+  },
+  {
+    "query":"How do I shutdown or reboot a computer?",
+    "command":"PsShutdown"
+  },
+  {
+    "query":"How do I suspend processes?",
+    "command":"PsSuspend"
+  },
+  {
+    "query":"How do I save and then change the current directory\u00a0\u2022?",
+    "command":"PUSHD"
+  },
+  {
+    "query":"How do I query process display processes?",
+    "command":"QPROCESS"
+  },
+  {
+    "query":"I want to see query process display processes",
+    "command":"QPROCESS"
+  },
+  {
+    "query":"How do I query session display all sessions (ts\/remote desktop)?",
+    "command":"QWinsta"
+  },
+  {
+    "query":"I want to see query session display all sessions (ts\/remote desktop)",
+    "command":"QWinsta"
+  },
+  {
+    "query":"How do I query termserver list all servers (ts\/remote desktop)?",
+    "command":"QAppSrv"
+  },
+  {
+    "query":"Show me query termserver list all servers (ts\/remote desktop)",
+    "command":"QAppSrv"
+  },
+  {
+    "query":"How do I query user display user sessions (ts\/remote desktop)?",
+    "command":"QUSER"
+  },
+  {
+    "query":"I want to see query user display user sessions (ts\/remote desktop)",
+    "command":"QUSER"
+  },
+  {
+    "query":"How do I manage ras connections?",
+    "command":"RASDIAL"
+  },
+  {
+    "query":"How do I manage ras connections?",
+    "command":"RASPHONE"
+  },
+  {
+    "query":"How do I delete a directory\u00a0\u2022?",
+    "command":"RD"
+  },
+  {
+    "query":"How do I configure windowsre and system reset?",
+    "command":"REAgentC"
+  },
+  {
+    "query":"How do I recover a damaged file from a defective disk?",
+    "command":"RECOVER"
+  },
+  {
+    "query":"How do I registry: read, set, export, delete keys and values?",
+    "command":"REG"
+  },
+  {
+    "query":"How do I import or export registry settings?",
+    "command":"REGEDIT"
+  },
+  {
+    "query":"How do I register or unregister a dll?",
+    "command":"REGSVR32"
+  },
+  {
+    "query":"How do I change registry permissions?",
+    "command":"REGINI"
+  },
+  {
+    "query":"How do I record comments (remarks) in a batch file\u00a0\u2022?",
+    "command":"REM"
+  },
+  {
+    "query":"How do I rename a file or files\u00a0\u2022?",
+    "command":"REN"
+  },
+  {
+    "query":"How do I replace or update one file with another?",
+    "command":"REPLACE"
+  },
+  {
+    "query":"How do I delete a remote desktop session?",
+    "command":"Reset Session"
+  },
+  {
+    "query":"How do I delete a directory\u00a0\u2022?",
+    "command":"RMDIR"
+  },
+  {
+    "query":"How do I share a folder or a printer?",
+    "command":"RMTSHARE"
+  },
+  {
+    "query":"How do I robust file and folder copy?",
+    "command":"ROBOCOPY"
+  },
+  {
+    "query":"How do I manipulate network routing tables?",
+    "command":"ROUTE"
+  },
+  {
+    "query":"How do I start | run commands?",
+    "command":"RUN"
+  },
+  {
+    "query":"How do I execute a program under a different user account?",
+    "command":"RUNAS"
+  },
+  {
+    "query":"How do I run a dll command (add\/remove print connections)?",
+    "command":"RUNDLL32"
+  },
+  {
+    "query":"How do I service control?",
+    "command":"SC"
+  },
+  {
+    "query":"How do I schedule a command to run at a specific time?",
+    "command":"SCHTASKS"
+  },
+  {
+    "query":"How do I run one or more scripts in sequence?",
+    "command":"ScriptRunner"
+  },
+  {
+    "query":"How do I display, set, or remove session environment variables\u00a0\u2022?",
+    "command":"SET"
+  },
+  {
+    "query":"I want to see display, set, or remove session environment variables\u00a0\u2022",
+    "command":"SET"
+  },
+  {
+    "query":"How do I control the visibility of environment variables\u00a0\u2022?",
+    "command":"SETLOCAL"
+  },
+  {
+    "query":"How do I set  security  for  an object (file, directory, reg key etc)?",
+    "command":"SetObjectSecurity"
+  },
+  {
+    "query":"How do I edit service principal names?",
+    "command":"SetSPN"
+  },
+  {
+    "query":"How do I set environment variables?",
+    "command":"SETX"
+  },
+  {
+    "query":"How do I system file checker?",
+    "command":"SFC"
+  },
+  {
+    "query":"How do I list or edit a file share or print share?",
+    "command":"SHARE"
+  },
+  {
+    "query":"Show me list or edit a file share or print share",
+    "command":"SHARE"
+  },
+  {
+    "query":"How do I run a command under a different user account?",
+    "command":"ShellRunAs"
+  },
+  {
+    "query":"How do I shift the position of batch file parameters\u00a0\u2022?",
+    "command":"SHIFT"
+  },
+  {
+    "query":"How do I create a windows shortcut (.lnk file)?",
+    "command":"SHORTCUT"
+  },
+  {
+    "query":"How do I shutdown the computer?",
+    "command":"SHUTDOWN"
+  },
+  {
+    "query":"How do I display file version no. virustotal status & timestamp?",
+    "command":"SIGCHECK"
+  },
+  {
+    "query":"I want to see display file version no. virustotal status & timestamp",
+    "command":"SIGCHECK"
+  },
+  {
+    "query":"How do I software licensing management?",
+    "command":"SLMGR"
+  },
+  {
+    "query":"How do I sort input?",
+    "command":"SORT"
+  },
+  {
+    "query":"How do I openssh remote login client?",
+    "command":"SSH"
+  },
+  {
+    "query":"How do I start a program, command or batch file\u00a0\u2022?",
+    "command":"START"
+  },
+  {
+    "query":"How do I list any alternate data  streams (ads) within a file or directory?",
+    "command":"STREAMS"
+  },
+  {
+    "query":"Show me list any alternate data  streams (ads) within a file or directory",
+    "command":"STREAMS"
+  },
+  {
+    "query":"How do I search for ansi and unicode strings in binary files?",
+    "command":"STRINGS"
+  },
+  {
+    "query":"How do I edit file and folder permissions, ownership and domain?",
+    "command":"SUBINACL"
+  },
+  {
+    "query":"How do I associate a path with a drive letter?",
+    "command":"SUBST"
+  },
+  {
+    "query":"How do I diagnose side-by-side problems?",
+    "command":"SXSTRACE"
+  },
+  {
+    "query":"How do I monitor and log system activity to the windows event log?",
+    "command":"SYSMON"
+  },
+  {
+    "query":"How do I list system configuration?",
+    "command":"SYSTEMINFO"
+  },
+  {
+    "query":"Show me list system configuration",
+    "command":"SYSTEMINFO"
+  },
+  {
+    "query":"How do I take ownership of a file?",
+    "command":"TAKEOWN"
+  },
+  {
+    "query":"How do I store, list or extract files in an archive?",
+    "command":"TAR"
+  },
+  {
+    "query":"Show me store, list or extract files in an archive",
+    "command":"TAR"
+  },
+  {
+    "query":"How do I list running applications and services?",
+    "command":"TASKLIST"
+  },
+  {
+    "query":"Show me list running applications and services",
+    "command":"TASKLIST"
+  },
+  {
+    "query":"How do I end a running process?",
+    "command":"TASKKILL"
+  },
+  {
+    "query":"How do I communicate with another host using the telnet protocol?",
+    "command":"TELNET"
+  },
+  {
+    "query":"How do I display or set the system time\u00a0\u2022?",
+    "command":"TIME"
+  },
+  {
+    "query":"I want to see display or set the system time\u00a0\u2022",
+    "command":"TIME"
+  },
+  {
+    "query":"How do I delay processing of a batch file\/command?",
+    "command":"TIMEOUT"
+  },
+  {
+    "query":"How do I set the window title for a cmd.exe session\u00a0\u2022?",
+    "command":"TITLE"
+  },
+  {
+    "query":"How do I task list with full path?",
+    "command":"TLIST"
+  },
+  {
+    "query":"Show me task list with full path",
+    "command":"TLIST"
+  },
+  {
+    "query":"How do I change file timestamps?",
+    "command":"TOUCH"
+  },
+  {
+    "query":"How do I trace route to a remote host?",
+    "command":"TRACERT"
+  },
+  {
+    "query":"How do I graphical display of folder structure?",
+    "command":"TREE"
+  },
+  {
+    "query":"I want to see graphical display of folder structure",
+    "command":"TREE"
+  },
+  {
+    "query":"How do I disconnect a remote desktop session?",
+    "command":"TSDISCON"
+  },
+  {
+    "query":"How do I end a running process?",
+    "command":"TSKILL"
+  },
+  {
+    "query":"How do I display the contents of a text file\u00a0\u2022?",
+    "command":"TYPE"
+  },
+  {
+    "query":"I want to see display the contents of a text file\u00a0\u2022",
+    "command":"TYPE"
+  },
+  {
+    "query":"How do I write performance monitor data to a log file?",
+    "command":"TypePerf"
+  },
+  {
+    "query":"How do I time zone utility?",
+    "command":"TZUTIL"
+  },
+  {
+    "query":"How do I visual basic compiler?",
+    "command":"VBC"
+  },
+  {
+    "query":"How do I display version information\u00a0\u2022?",
+    "command":"VER"
+  },
+  {
+    "query":"I want to see display version information\u00a0\u2022",
+    "command":"VER"
+  },
+  {
+    "query":"How do I verify that files have been saved\u00a0\u2022?",
+    "command":"VERIFY"
+  },
+  {
+    "query":"How do I connect to a hyper-v virtual machine?",
+    "command":"VMConnect"
+  },
+  {
+    "query":"How do I display a disk label\u00a0\u2022?",
+    "command":"VOL"
+  },
+  {
+    "query":"I want to see display a disk label\u00a0\u2022",
+    "command":"VOL"
+  },
+  {
+    "query":"How do I display volume shadow copy backups + writers\/providers?",
+    "command":"VSSADMIN"
+  },
+  {
+    "query":"I want to see display volume shadow copy backups + writers\/providers",
+    "command":"VSSADMIN"
+  },
+  {
+    "query":"How do I time service?",
+    "command":"W32TM"
+  },
+  {
+    "query":"How do I wait for or send a signal?",
+    "command":"WAITFOR"
+  },
+  {
+    "query":"How do I windows backup admin?",
+    "command":"WBADMIN"
+  },
+  {
+    "query":"How do I windows event collector utility?",
+    "command":"WECUTIL"
+  },
+  {
+    "query":"How do I clear event logs, enable\/disable\/query logs?",
+    "command":"WEVTUTIL"
+  },
+  {
+    "query":"How do I locate and display files in a directory tree?",
+    "command":"WHERE"
+  },
+  {
+    "query":"I want to see locate and display files in a directory tree",
+    "command":"WHERE"
+  },
+  {
+    "query":"How do I output the current username and domain?",
+    "command":"WHOAMI"
+  },
+  {
+    "query":"How do I lookup the registration record for a domain?",
+    "command":"WHOIS"
+  },
+  {
+    "query":"How do I compare the contents of two files or sets of files?",
+    "command":"WINDIFF"
+  },
+  {
+    "query":"How do I windows package manager (coming may 2021)?",
+    "command":"WINGET"
+  },
+  {
+    "query":"How do I manage the  wmi service\/wmi repository?",
+    "command":"WINMGMT"
+  },
+  {
+    "query":"How do I windows remote management?",
+    "command":"WINRM"
+  },
+  {
+    "query":"How do I windows remote shell?",
+    "command":"WINRS"
+  },
+  {
+    "query":"How do I wmi commands?",
+    "command":"WMIC"
+  },
+  {
+    "query":"How do I run preinstallation environment (winpe) commands?",
+    "command":"WPEUTIL"
+  },
+  {
+    "query":"How do I windows performance recorder?",
+    "command":"WPR"
+  },
+  {
+    "query":"How do I windows terminal?",
+    "command":"WT"
+  },
+  {
+    "query":"How do I windows update standalone installer?",
+    "command":"WUSA"
+  },
+  {
+    "query":"How do I windows update?",
+    "command":"WUAUCLT"
+  },
+  {
+    "query":"How do I change file and folder permissions?",
+    "command":"XCACLS"
+  },
+  {
+    "query":"How do I copy files and folders?",
+    "command":"XCOPY"
+  },
+  {
+    "query":"How do I comment \/ remark\u00a0\u2022?",
+    "command":"::"
+  }
+]

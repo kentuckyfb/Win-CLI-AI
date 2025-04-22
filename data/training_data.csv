@@ -1,0 +1,304 @@
+query,command
+"How do I get the security descriptor (sddl) for an object (file, directory, reg key)?",AccessChk
+How do I add or list users to/from a csv file?,ADDUSERS
+Show me add or list users to/from a csv file,ADDUSERS
+How do I active directory bulk modify?,ADmodcmd
+How do I address resolution protocol?,ARP
+How do I change file extension associations •?,ASSOC
+How do I change file attributes?,ATTRIB
+How do I manage audit policies?,AUDITPOL
+How do I create or repair a system partition?,BCDBOOT
+How do I manage boot configuration data?,BCDEDIT
+How do I background intelligent transfer service?,BITSADMIN
+How do I repair or replace a  partition boot sector?,BOOTREC
+"How do I do nothing, successfully •?",BREAK
+How do I change file permissions?,CACLS
+How do I call one batch program from another •?,CALL
+How do I request certificate from a certification authority?,CERTREQ
+How do I manage certification authority (ca) files and services?,CERTUTIL
+How do I change directory - move to a specific folder •?,CD
+How do I change terminal server session properties?,CHANGE
+How do I upgrade device edition/product key?,CHANGEPK
+How do I change the active console code page?,CHCP
+How do I change directory - move to a specific folder •?,CHDIR
+How do I check disk - check and repair disk problems?,CHKDSK
+How do I check the ntfs file system?,CHKNTFS
+How do I accept keyboard input to a batch file?,CHOICE
+"How do I encrypt or decrypt files/folders, overwrite data?",CIPHER
+"How do I automated cleanup of temp files, recycle bin?",CleanMgr
+How do I copy stdin to the windows clipboard?,CLIP
+How do I clear the screen •?,CLS
+How do I start a new cmd shell?,CMD
+How do I manage stored usernames/passwords?,CMDKEY
+How do I change colors of the cmd window •?,COLOR
+How do I compare the contents of two files or sets of files?,COMP
+How do I compress files or folders on an ntfs partition?,COMPACT
+How do I console input?,CON
+How do I convert a fat drive to ntfs?,CONVERT
+How do I copy one or more files to another location •?,COPY
+How do I show the mapping between logical & physical processors?,Coreinfo
+How do I client-side caching (offline files)?,CSCcmd
+How do I import or export active directory data?,CSVDE
+How do I transfer data from or to a server?,CURL
+How do I display or set the date •?,DATE
+I want to see display or set the date •,DATE
+How do I defragment hard drive?,DEFRAG
+How do I delete one or more files •?,DEL
+How do I delete user profiles?,DELPROF
+How do I delete a folder and all subfolders?,DELTREE
+How do I device manager command line utility?,DevCon
+How do I display a list of files and folders •?,DIR
+Show me display a list of files and folders •,DIR
+I want to see display a list of files and folders •,DIR
+List all files in the current directory,dir
+How do I disk administration?,DISKPART
+How do I volume shadow copy service?,DISKSHADOW
+How do I deployment image servicing and management?,DISM
+How do I specify which display to use and how to use it?,DisplaySwitch
+I want to see specify which display to use and how to use it,DisplaySwitch
+How do I manage dns servers?,DNSCMD
+"How do I edit command line, recall commands, and create macros?",DOSKEY
+How do I display installed device drivers?,DriverQuery
+I want to see display installed device drivers,DriverQuery
+How do I active directory acls?,DSACLs
+How do I add items to active directory (user group computer)?,DSAdd
+How do I view items in active directory (user group computer)?,DSGet
+How do I search active directory (user group computer)?,DSQuery
+How do I modify items in active directory (user group computer)?,DSMod
+How do I move an active directory object?,DSMove
+How do I remove items from active directory?,DSRM
+How do I directory service registration?,DSREGCMD
+How do I display  directory sizes/usage?,DU
+I want to see display  directory sizes/usage,DU
+How do I display message on screen •?,ECHO
+I want to see display message on screen •,ECHO
+How do I end localisation of the environment in a batch file •?,ENDLOCAL
+How do I delete one or more files •?,ERASE
+How do I extensible storage engine utilities?,ESENTUTL
+How do I add a message to the windows event log?,EVENTCREATE
+How do I quit the current script/routine and set an errorlevel •?,EXIT
+How do I uncompress cab files?,EXPAND
+How do I open windows explorer?,EXPLORER
+How do I uncompress cab files?,EXTRACT
+How do I compare two files?,FC
+How do I search for a text string in a file?,FIND
+How do I search for strings in files?,FINDSTR
+How do I manage minifilter drivers?,FLTMC
+How do I features on demand user experience tool?,FONDUE
+How do I loop command: against a set of files •?,FOR /F
+How do I loop command: against the results of another command •?,FOR /F
+"How do I loop command: all options files, directory, list •?",FOR
+"Show me loop command: all options files, directory, list •",FOR
+How do I batch process multiple files?,FORFILES
+How do I format a disk?,FORMAT
+How do I check free disk space?,FREEDISK
+How do I file and volume utilities?,FSUTIL
+How do I file transfer protocol?,FTP
+How do I file extension file type associations •?,FTYPE
+How do I display the media access control (mac) address?,GETMAC
+I want to see display the media access control (mac) address,GETMAC
+How do I direct a batch program to jump to a labelled line •?,GOTO
+How do I display resultant set of policy information?,GPRESULT
+I want to see display resultant set of policy information,GPRESULT
+How do I update group policy settings?,GPUPDATE
+How do I online help?,HELP
+How do I display the host name of the computer?,HOSTNAME
+I want to see display the host name of the computer,HOSTNAME
+How do I change file and folder permissions?,iCACLS
+How do I create a self extracting zip file archive?,IEXPRESS
+How do I conditionally perform a command •?,IF
+How do I is the current user a member of a group?,IFMEMBER
+How do I configure ip?,IPCONFIG
+How do I replace files that are in use by the os?,INUSE
+How do I list cached kerberos tickets?,KLIST
+Show me list cached kerberos tickets,KLIST
+How do I edit a disk label?,LABEL
+How do I local group policy object utility?,LGPO
+How do I load perfmon performance counters?,LODCTR
+How do I manage performance monitor logs?,LOGMAN
+How do I log a user off?,LOGOFF
+How do I create .cab files?,MAKECAB
+How do I bitlocker drive encryption?,Manage-BDE
+How do I convert a disk partition from  master boot record to a gpt?,MBR2GPT
+How do I create a new directory •?,MD
+How do I create a symbolic link (linkd) •?,MKLINK
+How do I configure a system device com/lpt/con?,MODE
+"How do I display output, one screen at a time?",MORE
+"I want to see display output, one screen at a time",MORE
+How do I manage a volume mount point?,MOUNTVOL
+How do I move files from one folder to another •?,MOVE
+How do I send a message?,MSG
+How do I microsoft windows installer?,MSIEXEC
+How do I system information?,MSINFO32
+How do I terminal server connection/remote desktop protocol(rdp)?,MSTSC
+How do I manage network resources?,NET
+How do I domain manager?,NETDOM
+"How do I configure network interfaces, firewall & remote access?",NETSH
+How do I display networking statistics (netbios over tcp/ip)?,NBTSTAT
+I want to see display networking statistics (netbios over tcp/ip),NBTSTAT
+How do I display networking statistics (tcp/ip)?,NETSTAT
+I want to see display networking statistics (tcp/ip),NETSTAT
+How do I network location test (ad)?,NLTEST
+How do I manage hyper-v network bindings?,NMBIND
+How do I name server lookup?,NSLOOKUP
+How do I windows backup folders to tape?,NTBACKUP
+How do I active directory domain services management?,NTDSUtil
+How do I edit user account rights?,NTRIGHTS
+How do I modify network bindings?,NVSPBIND
+How do I query or display open files?,OPENFILES
+I want to see query or display open files,OPENFILES
+How do I display or set a search path for executable files •?,PATH
+I want to see display or set a search path for executable files •,PATH
+How do I trace route plus network latency and packet loss?,PATHPING
+How do I suspend processing of a batch file •?,PAUSE
+How do I test a network connection?,PING
+How do I monitor internal packet propagation and packet drop reports?,PKTMON
+How do I plug and play utility?,PNPUTIL
+How do I return to a previous directory saved by pushd •?,POPD
+How do I display the status of ports and services?,PORTQRY
+I want to see display the status of ports and services,PORTQRY
+How do I configure power settings?,POWERCFG
+How do I print a text file?,PRINT
+How do I print queue backup/recovery?,PRINTBRM
+How do I configure a printer?,PRNCNFG
+"How do I add, delete or list print drivers?",PRNDRVR
+"Show me add, delete or list print drivers",PRNDRVR
+"How do I pause, resume, cancel, or list print jobs?",PRNJOBS
+"Show me pause, resume, cancel, or list print jobs",PRNJOBS
+"How do I add, delete, or list printer connections?",PRNMNGR
+"Show me add, delete, or list printer connections",PRNMNGR
+"How do I manage printer ports, change port configuration?",PRNPORT
+"How do I manage print queues, print a test page?",PRNQCTL
+How do I monitor an application for cpu spikes?,ProcDump
+How do I change the command prompt •?,PROMPT
+How do I execute process remotely?,PsExec
+How do I show files opened remotely?,PsFile
+How do I display the sid of a computer or a user?,PsGetSid
+I want to see display the sid of a computer or a user,PsGetSid
+How do I list information about a system?,PsInfo
+Show me list information about a system,PsInfo
+How do I kill processes by name or process id?,PsKill
+How do I list detailed information about processes?,PsList
+Show me list detailed information about processes,PsList
+How do I who’s logged on (locally or via resource sharing)?,PsLoggedOn
+How do I event log records?,PsLogList
+How do I change account password?,PsPasswd
+How do I measure network performance?,PsPing
+How do I view and control services?,PsService
+How do I shutdown or reboot a computer?,PsShutdown
+How do I suspend processes?,PsSuspend
+How do I save and then change the current directory •?,PUSHD
+How do I query process display processes?,QPROCESS
+I want to see query process display processes,QPROCESS
+How do I query session display all sessions (ts/remote desktop)?,QWinsta
+I want to see query session display all sessions (ts/remote desktop),QWinsta
+How do I query termserver list all servers (ts/remote desktop)?,QAppSrv
+Show me query termserver list all servers (ts/remote desktop),QAppSrv
+How do I query user display user sessions (ts/remote desktop)?,QUSER
+I want to see query user display user sessions (ts/remote desktop),QUSER
+How do I manage ras connections?,RASDIAL
+How do I manage ras connections?,RASPHONE
+How do I delete a directory •?,RD
+How do I configure windowsre and system reset?,REAgentC
+How do I recover a damaged file from a defective disk?,RECOVER
+"How do I registry: read, set, export, delete keys and values?",REG
+How do I import or export registry settings?,REGEDIT
+How do I register or unregister a dll?,REGSVR32
+How do I change registry permissions?,REGINI
+How do I record comments (remarks) in a batch file •?,REM
+How do I rename a file or files •?,REN
+How do I replace or update one file with another?,REPLACE
+How do I delete a remote desktop session?,Reset Session
+How do I delete a directory •?,RMDIR
+How do I share a folder or a printer?,RMTSHARE
+How do I robust file and folder copy?,ROBOCOPY
+How do I manipulate network routing tables?,ROUTE
+How do I start | run commands?,RUN
+How do I execute a program under a different user account?,RUNAS
+How do I run a dll command (add/remove print connections)?,RUNDLL32
+How do I service control?,SC
+How do I schedule a command to run at a specific time?,SCHTASKS
+How do I run one or more scripts in sequence?,ScriptRunner
+"How do I display, set, or remove session environment variables •?",SET
+"I want to see display, set, or remove session environment variables •",SET
+How do I control the visibility of environment variables •?,SETLOCAL
+"How do I set  security  for  an object (file, directory, reg key etc)?",SetObjectSecurity
+How do I edit service principal names?,SetSPN
+How do I set environment variables?,SETX
+How do I system file checker?,SFC
+How do I list or edit a file share or print share?,SHARE
+Show me list or edit a file share or print share,SHARE
+How do I run a command under a different user account?,ShellRunAs
+How do I shift the position of batch file parameters •?,SHIFT
+How do I create a windows shortcut (.lnk file)?,SHORTCUT
+How do I shutdown the computer?,SHUTDOWN
+How do I display file version no. virustotal status & timestamp?,SIGCHECK
+I want to see display file version no. virustotal status & timestamp,SIGCHECK
+How do I software licensing management?,SLMGR
+How do I sort input?,SORT
+How do I openssh remote login client?,SSH
+"How do I start a program, command or batch file •?",START
+How do I list any alternate data  streams (ads) within a file or directory?,STREAMS
+Show me list any alternate data  streams (ads) within a file or directory,STREAMS
+How do I search for ansi and unicode strings in binary files?,STRINGS
+"How do I edit file and folder permissions, ownership and domain?",SUBINACL
+How do I associate a path with a drive letter?,SUBST
+How do I diagnose side-by-side problems?,SXSTRACE
+How do I monitor and log system activity to the windows event log?,SYSMON
+How do I list system configuration?,SYSTEMINFO
+Show me list system configuration,SYSTEMINFO
+How do I take ownership of a file?,TAKEOWN
+"How do I store, list or extract files in an archive?",TAR
+"Show me store, list or extract files in an archive",TAR
+How do I list running applications and services?,TASKLIST
+Show me list running applications and services,TASKLIST
+How do I end a running process?,TASKKILL
+How do I communicate with another host using the telnet protocol?,TELNET
+How do I display or set the system time •?,TIME
+I want to see display or set the system time •,TIME
+How do I delay processing of a batch file/command?,TIMEOUT
+How do I set the window title for a cmd.exe session •?,TITLE
+How do I task list with full path?,TLIST
+Show me task list with full path,TLIST
+How do I change file timestamps?,TOUCH
+How do I trace route to a remote host?,TRACERT
+How do I graphical display of folder structure?,TREE
+I want to see graphical display of folder structure,TREE
+How do I disconnect a remote desktop session?,TSDISCON
+How do I end a running process?,TSKILL
+How do I display the contents of a text file •?,TYPE
+I want to see display the contents of a text file •,TYPE
+How do I write performance monitor data to a log file?,TypePerf
+How do I time zone utility?,TZUTIL
+How do I visual basic compiler?,VBC
+How do I display version information •?,VER
+I want to see display version information •,VER
+How do I verify that files have been saved •?,VERIFY
+How do I connect to a hyper-v virtual machine?,VMConnect
+How do I display a disk label •?,VOL
+I want to see display a disk label •,VOL
+How do I display volume shadow copy backups + writers/providers?,VSSADMIN
+I want to see display volume shadow copy backups + writers/providers,VSSADMIN
+How do I time service?,W32TM
+How do I wait for or send a signal?,WAITFOR
+How do I windows backup admin?,WBADMIN
+How do I windows event collector utility?,WECUTIL
+"How do I clear event logs, enable/disable/query logs?",WEVTUTIL
+How do I locate and display files in a directory tree?,WHERE
+I want to see locate and display files in a directory tree,WHERE
+How do I output the current username and domain?,WHOAMI
+How do I lookup the registration record for a domain?,WHOIS
+How do I compare the contents of two files or sets of files?,WINDIFF
+How do I windows package manager (coming may 2021)?,WINGET
+How do I manage the  wmi service/wmi repository?,WINMGMT
+How do I windows remote management?,WINRM
+How do I windows remote shell?,WINRS
+How do I wmi commands?,WMIC
+How do I run preinstallation environment (winpe) commands?,WPEUTIL
+How do I windows performance recorder?,WPR
+How do I windows terminal?,WT
+How do I windows update standalone installer?,WUSA
+How do I windows update?,WUAUCLT
+How do I change file and folder permissions?,XCACLS
+How do I copy files and folders?,XCOPY
+How do I comment / remark •?,::

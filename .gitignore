@@ -1,0 +1,132 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files - ignore entire models folder
+models/
+models/**/*
+
+# Keep model code and small config files
+!models/**/*.py
+!models/**/*.json
+!models/**/*.txt
+!models/**/*.md
+!models/**/config.json
+!models/**/tokenizer.json
+!models/**/vocab.txt
+!models/**/special_tokens_map.json
+!models/**/tokenizer_config.json
+
+
+# Keep processed data code and small config files
+!data/**/*.py
+!data/**/*.md
+!data/**/config.json
+!data/**/schema.json
+!data/**/metadata.json
+
+# Keep small processed data files
+!data/processed/*.json
+!data/processed/*.csv
+!data/processed/*.txt
+!data/processed/*.pkl
+!data/processed/*.bin
+!data/processed/*.pt
+!data/processed/*.pth
+!data/processed/*.ckpt
+!data/processed/*.faiss
+!data/processed/*.index
+!data/processed/*.db
+!data/processed/*.sqlite
+!data/processed/*.h5
+!data/processed/*.hdf5
+!data/processed/*.npy
+!data/processed/*.npz
+
+# Logs
+logs/
+*.log
+tensorboard/
+wandb/
+
+# Environment variables
+.env
+.env.local
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+*.xz
+*.lzma
+*.lz4
+*.zst
+*.tar.zst
+*.tar.lz4
+*.tar.lzma
+*.tar.xz
+*.tar.bz2
+*.tar.gz
+*.tar.zip
+*.tar.7z
+*.tar.rar
+*.tar.tar
+*.tar.tar.gz
+*.tar.tar.bz2
+*.tar.tar.xz
+*.tar.tar.lzma
+*.tar.tar.lz4
+*.tar.tar.zst
+*.tar.tar.7z
+*.tar.tar.rar
+*.tar.tar.zip
+*.tar.tar.tar
+*.tar.tar.tar.gz
+*.tar.tar.tar.bz2
+*.tar.tar.tar.xz
+*.tar.tar.tar.lzma
+*.tar.tar.tar.lz4
+*.tar.tar.tar.zst
+*.tar.tar.tar.7z
+*.tar.tar.tar.rar
+*.tar.tar.tar.zip 
